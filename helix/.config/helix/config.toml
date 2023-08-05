@@ -1,0 +1,18 @@
+
+theme = "gruvbox"
+
+[editor]
+line-number = "relative"
+scroll-lines = 15
+auto-pairs = false
+scrolloff = 15
+mouse = false
+#auto-info = false #disable hints
+text-width = 80
+rulers = [81]
+
+[keys.normal.g]
+q = [":reflow"]
+
+[keys.normal."space"]
+f = "file_picker_in_current_directory"
