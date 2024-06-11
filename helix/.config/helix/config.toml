@@ -1,5 +1,5 @@
 
-theme = "gruvbox"
+theme = "voxed"
 
 [editor]
 line-number = "relative"
