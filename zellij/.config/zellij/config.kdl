@@ -22,6 +22,7 @@ keybinds {
     }
     pane {
         bind "Ctrl p" { SwitchToMode "Normal"; }
+        bind "Ctrl r" { SwitchToMode "Resize"; }
         bind "h" "Left" { MoveFocus "Left"; }
         bind "l" "Right" { MoveFocus "Right"; }
         bind "j" "Down" { MoveFocus "Down"; }
@@ -29,8 +30,10 @@ keybinds {
         bind "p" { SwitchFocus; }
         bind "n" { NewPane; }
         //bind "n" { NewPane; SwitchToMode "Normal"; }
-        bind "d" { NewPane "Down"; SwitchToMode "Normal"; }
-        bind "r" { NewPane "Right"; SwitchToMode "Normal"; }
+        //bind "d" { NewPane "Down"; SwitchToMode "Normal"; }
+        //bind "r" { NewPane "Right"; SwitchToMode "Normal"; }
+        bind "d" { NewPane "Down"; }
+        bind "r" { NewPane "Right"; }
         bind "x" { CloseFocus; }
         bind "z" { TogglePaneFrames; SwitchToMode "Normal"; }
         bind "w" { ToggleFloatingPanes; SwitchToMode "Normal"; }

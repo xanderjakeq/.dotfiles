@@ -4,7 +4,7 @@ theme = "voxed"
 [editor]
 line-number = "relative"
 scroll-lines = 15
-auto-pairs = false
+auto-pairs = true
 scrolloff = 15
 mouse = false
 #auto-info = false #disable hints
