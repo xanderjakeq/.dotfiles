@@ -39,6 +39,8 @@ keybinds {
         bind "w" { ToggleFloatingPanes; SwitchToMode "Normal"; }
         bind "e" { TogglePaneEmbedOrFloating; SwitchToMode "Normal"; }
         bind "c" { SwitchToMode "RenamePane"; PaneNameInput 0;}
+        bind "Ctrl n" { GoToTab 1; }
+        bind "Ctrl e" { GoToTab 2; }
     }
     move {
         bind "Ctrl h" { SwitchToMode "Normal"; }
@@ -235,7 +237,7 @@ plugins {
 // Default: "default"
 //
 //default_layout "compact"
-default_layout "./compact_modified.kdl"
+default_layout "compact_modified"
 
 // Choose the mode that zellij uses when starting up.
 // Default: normal

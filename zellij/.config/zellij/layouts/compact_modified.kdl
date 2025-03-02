@@ -1,8 +1,17 @@
 layout {
     tab name="Tab #1" focus=true hide_floating_panes=true {
         pane focus=true split_direction="vertical" {
-            pane size="50%"
+            pane
+        }
+        pane size=1 borderless=true {
+            plugin location="zellij:compact-bar"
+        }
+    }
+
+    tab name="Tab #2" hide_floating_panes=true {
+        pane focus=true split_direction="vertical" {
             pane split_direction="horizontal" {
+                pane
                 pane
                 pane
             }
@@ -11,6 +20,7 @@ layout {
             plugin location="zellij:compact-bar"
         }
     }
+
     new_tab_template {
         pane
         pane size=1 borderless=true {
