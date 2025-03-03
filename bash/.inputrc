@@ -1,4 +1,4 @@
 set editing-mode vi
 
 set keymap vi-command
-set v: ""
+"v": ""
