@@ -28,7 +28,6 @@ keybinds {
         bind "j" "Down" { MoveFocus "Down"; }
         bind "k" "Up" { MoveFocus "Up"; }
         bind "p" { SwitchFocus; }
-        bind "n" { NewPane; }
         //bind "n" { NewPane; SwitchToMode "Normal"; }
         //bind "d" { NewPane "Down"; SwitchToMode "Normal"; }
         //bind "r" { NewPane "Right"; SwitchToMode "Normal"; }
@@ -37,10 +36,10 @@ keybinds {
         bind "x" { CloseFocus; }
         bind "z" { TogglePaneFrames; SwitchToMode "Normal"; }
         bind "w" { ToggleFloatingPanes; SwitchToMode "Normal"; }
-        bind "e" { TogglePaneEmbedOrFloating; SwitchToMode "Normal"; }
+        //bind "e" { TogglePaneEmbedOrFloating; SwitchToMode "Normal"; }
         bind "c" { SwitchToMode "RenamePane"; PaneNameInput 0;}
-        bind "Ctrl n" { GoToTab 1; }
-        bind "Ctrl e" { GoToTab 2; }
+        bind "n" { GoToTab 1; }
+        bind "e" { GoToTab 2; }
     }
     move {
         bind "Ctrl h" { SwitchToMode "Normal"; }
