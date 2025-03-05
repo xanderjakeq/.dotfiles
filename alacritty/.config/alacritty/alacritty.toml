@@ -3,3 +3,6 @@ normal = { family = "Azeret Mono", style = "Regular" }
 bold = { family = "Azeret Mono Thin", style = "Bold" }
 italic = { family = "Azeret Mono", style = "Italic" }
 bold_italic = { family = "Azeret Mono Thin", style = "Bold Italic" }
+
+[scrolling]
+history = 1000
