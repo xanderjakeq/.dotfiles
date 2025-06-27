@@ -4,3 +4,6 @@ email = "xanderjakeq@gmail.com"
 
 [ui]
 default-command = "log"
+
+[git]
+write-change-id-header = true

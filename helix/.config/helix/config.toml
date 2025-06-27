@@ -10,6 +10,10 @@ mouse = false
 #auto-info = false #disable hints
 text-width = 80
 rulers = [81]
+end-of-line-diagnostics = "hint"
+
+[editor.inline-diagnostics]
+cursor-line = "warning" # show warnings and errors on the cursorline inline
 
 [keys.normal.g]
 q = [":reflow"]

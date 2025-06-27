@@ -6,3 +6,6 @@ bold_italic = { family = "Azeret Mono Thin", style = "Bold Italic" }
 
 [scrolling]
 history = 1000
+
+[terminal]
+shell = "/home/xanderjakeq/.cargo/bin/nu"
