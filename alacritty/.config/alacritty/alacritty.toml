@@ -1,11 +1,25 @@
-[font]
-normal = { family = "Azeret Mono", style = "Regular" }
-bold = { family = "Azeret Mono Thin", style = "Bold" }
-italic = { family = "Azeret Mono", style = "Italic" }
-bold_italic = { family = "Azeret Mono Thin", style = "Bold Italic" }
+general.import = [
+  "/home/xanderjakeq/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/paper-theme.toml",
+]
+
+[font.normal]
+family = "Azeret Mono"
+style = "Regular"
+
+[font.bold]
+family = "Azeret Mono Thin"
+style = "Bold"
+
+[font.italic]
+family = "Azeret Mono"
+style = "Italic"
+
+[font.bold_italic]
+family = "Azeret Mono Thin"
+style = "Bold Italic"
 
 [scrolling]
-history = 1000
+history = 1_000
 
 [terminal]
 shell = "/home/xanderjakeq/.cargo/bin/nu"
