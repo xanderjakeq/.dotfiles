@@ -5,19 +5,19 @@ general.import = [
 ]
 
 [font.normal]
-family = "Azeret Mono"
+family = "Essential PragmataPro"
 style = "Regular"
 
 [font.bold]
-family = "Azeret Mono Thin"
+family = "Iosevka"
 style = "Bold"
 
 [font.italic]
-family = "Azeret Mono"
+family = "Iosevka"
 style = "Italic"
 
 [font.bold_italic]
-family = "Azeret Mono Thin"
+family = "Iosevka"
 style = "Bold Italic"
 
 [scrolling]
