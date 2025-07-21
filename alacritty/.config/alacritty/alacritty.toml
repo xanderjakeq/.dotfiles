@@ -1,24 +1,28 @@
 
 # theme generated using `npx alacritty-themes` https://github.com/rajasegar/alacritty-themes
 general.import = [
-  "/home/xanderjakeq/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/paper-theme.toml",
+    "/home/xanderjakeq/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/paper-theme.toml",
 ]
 
 [font.normal]
-family = "Essential PragmataPro"
+family = "Iosevka Custom"
+# family = "Essential PragmataPro" //good font but expensiveee...
 style = "Regular"
 
 [font.bold]
-family = "Iosevka"
+family = "Iosevka Custom"
 style = "Bold"
 
 [font.italic]
-family = "Iosevka"
+family = "Iosevka Custom"
 style = "Italic"
 
 [font.bold_italic]
-family = "Iosevka"
+family = "Iosevka Custom"
 style = "Bold Italic"
+
+[font]
+size = 15
 
 [scrolling]
 history = 1_000
