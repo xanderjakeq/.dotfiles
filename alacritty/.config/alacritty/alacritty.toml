@@ -1,28 +1,30 @@
 
 # theme generated using `npx alacritty-themes` https://github.com/rajasegar/alacritty-themes
 general.import = [
-    "/home/xanderjakeq/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/paper-theme.toml",
+    # "/home/xanderjakeq/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/paper-theme.toml",
+    "./rose_pine_moon.toml",
+    # "./rose_pine_dawn.toml",
 ]
 
 [font.normal]
-family = "Iosevka Custom"
-# family = "Essential PragmataPro" //good font but expensiveee...
+# family = "Native" # good font, but := has weird alignment
+family = "Essential PragmataPro"
 style = "Regular"
 
 [font.bold]
-family = "Iosevka Custom"
+family = "Essential PragmataPro"
 style = "Bold"
 
 [font.italic]
-family = "Iosevka Custom"
+family = "Essential PragmataPro"
 style = "Italic"
 
 [font.bold_italic]
-family = "Iosevka Custom"
+family = "Essential PragmataPro"
 style = "Bold Italic"
 
 [font]
-size = 15
+size = 12
 
 [scrolling]
 history = 1_000
