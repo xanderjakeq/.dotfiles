@@ -2,8 +2,10 @@
 # theme generated using `npx alacritty-themes` https://github.com/rajasegar/alacritty-themes
 general.import = [
     # "/home/xanderjakeq/.npm/_npx/808b709e6234a442/node_modules/alacritty-themes/themes/paper-theme.toml",
-    "./rose_pine_moon.toml",
+    "./rose_pine.toml",
+    # "./rose_pine_moon.toml",
     # "./rose_pine_dawn.toml",
+    # "./paper_light.toml",
 ]
 
 [font.normal]
