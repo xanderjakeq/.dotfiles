@@ -2,3 +2,6 @@ command = /home/xanderjakeq/.cargo/bin/nu
 
 font-family = "Essential PragmataPro"
 # font-family = "Native"
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
