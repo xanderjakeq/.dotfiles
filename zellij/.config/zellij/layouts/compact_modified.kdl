@@ -1,5 +1,5 @@
 layout {
-    tab name="Tab #1" focus=true hide_floating_panes=true {
+    tab name="main" focus=true hide_floating_panes=true {
         pane focus=true split_direction="vertical" {
             pane
             // pane size="30%"
@@ -9,12 +9,24 @@ layout {
         }
     }
 
-    tab name="Tab #2" hide_floating_panes=true {
+    tab name="misc" hide_floating_panes=true {
         pane focus=true split_direction="vertical" {
             pane split_direction="vertical" {
                 pane
                 pane
                 pane
+            }
+        }
+        pane size=1 borderless=true {
+            plugin location="zellij:compact-bar"
+        }
+    }
+
+    tab name="notes" hide_floating_panes=true {
+        pane focus=true split_direction="vertical" {
+            pane split_direction="vertical" {
+                pane cwd="~/writing/notes"
+                pane cwd="~/writing/knowtes"
             }
         }
         pane size=1 borderless=true {

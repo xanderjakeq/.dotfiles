@@ -40,6 +40,7 @@ keybinds {
         bind "c" { SwitchToMode "RenamePane"; PaneNameInput 0;}
         bind "n" { GoToTab 1; }
         bind "e" { GoToTab 2; }
+        bind "i" { GoToTab 3; }
     }
     move {
         bind "Ctrl h" { SwitchToMode "Normal"; }
@@ -253,12 +254,26 @@ themes {
 		black "#f2e9e1"
 		white "#575279"
 	}
+
+    pencil-light {
+        bg "#FFFCF0"
+		fg "#575279"
+		red "#b4637a"
+		green "#286983"
+		blue "#56949f"
+		yellow "#ea9d34"
+		magenta "#907aa9"
+		orange "#fe640b"
+		cyan "#d7827e"
+		black "#f2e9e1"
+		white "#575279"
+    }
 }
 
 // Choose the theme that is specified in the themes section.
 // Default: default
 //
-theme "rose_pine_moon"
+theme "dracula"
 
 // The name of the default layout to load on startup
 // Default: "default"

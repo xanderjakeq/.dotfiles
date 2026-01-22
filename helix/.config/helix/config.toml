@@ -1,7 +1,7 @@
 theme = "rose_pine"
 
 [editor]
-line-number = "absolute"
+line-number = "relative"
 scroll-lines = 15
 auto-pairs = true
 scrolloff = 15
@@ -12,7 +12,7 @@ text-width = 80
 rulers = [81]
 end-of-line-diagnostics = "hint"
 jump-label-alphabet = "tnseriaoplvmgjbkdhfuc,"
-completion-trigger-len = 5
+completion-trigger-len = 3
 
 [editor.inline-diagnostics]
 cursor-line = "warning" # show warnings and errors on the cursorline inline
@@ -22,7 +22,6 @@ newline = "all"
 
 [editor.whitespace.characters]
 newline = "𐫴"
-
 
 
 [keys.normal]
@@ -38,7 +37,6 @@ C-j = "jump_view_down"
 
 [keys.select]
 X = "extend_line_above"
-
 
 [keys.normal.g]
 q = [":reflow"]
