@@ -1,7 +1,17 @@
 command = /home/xanderjakeq/.cargo/bin/nu
 
-font-family = "Essential PragmataPro"
+window-decoration = none
+fullscreen = "true"
+
+font-family = "PragmataProMonoLiga Nerd Font"
+font-size = 15
+# font-family = "Essential PragmataPro"
 # font-family = "Native"
-font-feature = -calt
-font-feature = -liga
-font-feature = -dlig
+
+# |> == == != -> <-
+font-codepoint-map = U+007C=Fira Code
+font-codepoint-map = U+0021=Fira Code
+font-codepoint-map = U+002D=Fira Code
+font-codepoint-map = U+003C-U+003E=Fira Code
+
+

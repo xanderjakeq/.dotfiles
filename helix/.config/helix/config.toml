@@ -1,6 +1,7 @@
 theme = "rose_pine"
 
 [editor]
+auto-completion = false
 line-number = "relative"
 scroll-lines = 15
 auto-pairs = true
@@ -27,7 +28,7 @@ newline = "𐫴"
 [keys.normal]
 X = ["extend_line_above", "select_mode"]
 x = ["extend_line_below", "select_mode"]
-s = "goto_word"
+S = "goto_word"
 
 C-l = "jump_view_right"
 C-h = "jump_view_left"
