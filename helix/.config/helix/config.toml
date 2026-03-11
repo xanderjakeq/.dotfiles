@@ -1,8 +1,10 @@
-theme = "rose_pine"
+# theme = "bogster"
+theme = "xjq-dark"
 
 [editor]
 auto-completion = false
 line-number = "relative"
+cursorline = true
 scroll-lines = 15
 auto-pairs = true
 scrolloff = 15
@@ -28,12 +30,14 @@ newline = "𐫴"
 [keys.normal]
 X = ["extend_line_above", "select_mode"]
 x = ["extend_line_below", "select_mode"]
-S = "goto_word"
 
 C-l = "jump_view_right"
 C-h = "jump_view_left"
 C-k = "jump_view_up"
 C-j = "jump_view_down"
+
+C-u = "@z<backspace>zz"
+C-d = "@z<space>zz"
 
 
 [keys.select]

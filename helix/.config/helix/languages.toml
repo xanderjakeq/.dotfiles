@@ -9,6 +9,10 @@ command = "svelte-language-server"
 command = "pyrefly"
 args = [ "lsp" ]
 
+[language-server.ruff]
+command = "ruff"
+args = [ "server" ]
+
 [language-server.tailwindcss-ls]
 command = "tailwindcss-language-server"
 args = ["--stdio"]
@@ -36,7 +40,7 @@ args = ["lsp"]
 # languages
 [[language]]
 name = "python"
-language-servers = [ "pyrefly" ]
+language-servers = [ "pyrefly", "ruff" ]
 
 [[language]]
 name = "odin"

@@ -1,0 +1,12 @@
+inherits = "ashen"
+
+"ui.virtual.jump-label" = { fg = "orange_golden", modifiers = [
+  "bold"
+]}
+
+hint = { fg = "hint", bg = "g_10" }
+
+[palette]
+brown_dark = "#3d1d26"
+cursorline = "#232121"
+hint = "#b2a6a6"

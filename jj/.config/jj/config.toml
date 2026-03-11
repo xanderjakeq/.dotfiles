@@ -4,6 +4,7 @@ email = "xanderjakeq@gmail.com"
 
 [ui]
 default-command = "log"
+merge-editor = ":builtin"
 
 [git]
 write-change-id-header = true
