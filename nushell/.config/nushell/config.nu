@@ -58,6 +58,9 @@ $env.path ++= [$"($env.FLYCTL_INSTALL)/bin"]
 # whitebox
 $env.path ++= ["/home/xanderjakeq/dev/tools/whitebox/whitebox_v0.122.0"]
 
+# superhtml
+$env.path ++= ["/usr/bin/superhtml"]
+
 $env.books = "/media/xanderjakeq/T7/books"
 
 $env.config = {

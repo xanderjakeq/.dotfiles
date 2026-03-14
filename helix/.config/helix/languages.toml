@@ -9,9 +9,21 @@ command = "svelte-language-server"
 command = "pyrefly"
 args = [ "lsp" ]
 
+[language-server.godot]
+command = "nc"
+args = [ "127.0.0.1", "6005" ]
+
+[language-server.superhtml]
+command = "superhtml"
+args = [ "lsp" ]
+
 [language-server.ruff]
 command = "ruff"
 args = [ "server" ]
+
+[language-server.csskit]
+command = "csskit"
+args = ["lsp"]
 
 [language-server.tailwindcss-ls]
 command = "tailwindcss-language-server"
@@ -39,6 +51,10 @@ args = ["lsp"]
 
 # languages
 [[language]]
+name = "gdscript"
+language-servers = [ "godot" ]
+
+[[language]]
 name = "python"
 language-servers = [ "pyrefly", "ruff" ]
 
@@ -61,8 +77,15 @@ name = "rust"
 language-servers = ["rust-analyzer"]
 
 [[language]]
+name = "css"
+language-servers = ["csskit"]
+formatter = {
+  command = "csskit", args = ["fmt"]
+}
+
+[[language]]
 name = "html"
-language-servers = [ "vscode-html-language-server", "tailwindcss-ls" ]
+language-servers = [ "vscode-html-language-server", "tailwindcss-ls", "superhtml" ]
 
 [[language]]
 name = "css"

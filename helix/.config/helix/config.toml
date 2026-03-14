@@ -52,6 +52,7 @@ o = [":toggle inline-diagnostics.cursor-line hint"]
 
 [keys.normal."space"]
 f = "file_picker_in_current_directory"
+n = "hover"
 # e = [":new", ":insert-output yazi", ":buffer-close!", ":redraw"]
 
 [keys.insert]
