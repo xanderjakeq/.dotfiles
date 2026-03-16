@@ -2,7 +2,8 @@
 theme = "xjq-dark"
 
 [editor]
-auto-completion = false
+shell = ["nu", "-c"]
+# auto-completion = false
 line-number = "relative"
 cursorline = true
 scroll-lines = 15

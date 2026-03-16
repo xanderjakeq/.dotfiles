@@ -4,9 +4,12 @@ inherits = "ashen"
   "bold"
 ]}
 
+"ui.linenr" = { fg = "hint"}
+"ui.linenr.selected" = { fg = "red"}
+
 hint = { fg = "hint", bg = "g_10" }
 
 [palette]
-brown_dark = "#3d1d26"
+brown_dark = "#183831"
 cursorline = "#232121"
 hint = "#b2a6a6"

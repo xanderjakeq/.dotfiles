@@ -77,19 +77,13 @@ name = "rust"
 language-servers = ["rust-analyzer"]
 
 [[language]]
-name = "css"
-language-servers = ["csskit"]
-formatter = {
-  command = "csskit", args = ["fmt"]
-}
-
-[[language]]
-name = "html"
-language-servers = [ "vscode-html-language-server", "tailwindcss-ls", "superhtml" ]
+name = "javascript"
+auto-format = true
 
 [[language]]
 name = "css"
-language-servers = [ "vscode-css-language-server", "tailwindcss-ls" ]
+language-servers = [ "vscode-css-language-server", "tailwindcss-ls", "biome" ]
+auto-format = false
 
 [[language]]
 name = "jsx"
