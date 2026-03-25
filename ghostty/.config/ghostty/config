@@ -1,4 +1,3 @@
-shell-integration = none
 command = /home/xanderjakeq/.cargo/bin/nu
 
 window-decoration = none

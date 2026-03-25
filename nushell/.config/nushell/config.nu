@@ -19,6 +19,15 @@
 use std/config light-theme
 
 $env.config.show_banner = false
+$env.config.buffer_editor = "hx"
+
+$env.PROMPT_COMMAND = {
+  let dirs = (pwd | path split)
+  let last = ($dirs | last)
+  let first_letters = ($dirs | str substring 0..0 | drop nth 0..1)
+
+  $"\n~($first_letters | drop | str join '.')/($last)\n"
+}
 
 # $env.EDITOR = 'nvim'
 $env.EDITOR = 'hx'
@@ -39,6 +48,8 @@ $env.path ++= ["~/.bun/bin"]
 #Odin
 $env.path ++= ["/home/xanderjakeq/dev/odin/Odin"]
 $env.ODIN_ROOT = "/home/xanderjakeq/dev/odin/Odin"
+
+$env.path ++= ["~/.vite-plus/bin/"]
 
 
 #cargo
