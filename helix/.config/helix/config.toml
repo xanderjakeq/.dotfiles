@@ -13,12 +13,12 @@ continue-comments = false
 # auto-info = false #disable hints
 text-width = 80
 rulers = [81]
-end-of-line-diagnostics = "hint"
+end-of-line-diagnostics = "disable"
 jump-label-alphabet = "tnseriaoplvmgjbkdhfuc,"
 completion-trigger-len = 3
 
 [editor.inline-diagnostics]
-cursor-line = "warning" # show warnings and errors on the cursorline inline
+cursor-line = "disable" # show warnings and errors on the cursorline inline
 
 [editor.whitespace.render]
 newline = "all"
@@ -39,6 +39,9 @@ C-j = "jump_view_down"
 C-u = "@z<backspace>zz"
 C-d = "@z<space>zz"
 
+"'" = "@:jtm "
+C-s = "@:m "
+
 
 [keys.select]
 X = "extend_line_above"
@@ -58,7 +61,7 @@ f = "file_picker_in_current_directory"
 n = "hover"
 # e = [":new", ":insert-output yazi", ":buffer-close!", ":redraw"]
 y = ":clipboard-yank"
-p = ":primary-clipboard-paste-replace"
+p = ":primary-clipboard-paste-before"
 
 [keys.insert]
 up = "no_op"
