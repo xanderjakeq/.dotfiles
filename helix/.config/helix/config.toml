@@ -1,6 +1,8 @@
 theme = "xjq-dark"
 
 [editor]
+true-color = true
+editor-config = true
 shell = ["nu", "-c"]
 # auto-completion = false
 line-number = "relative"
@@ -60,7 +62,7 @@ o = [":toggle inline-diagnostics.cursor-line hint"]
 f = "file_picker_in_current_directory"
 n = "hover"
 # e = [":new", ":insert-output yazi", ":buffer-close!", ":redraw"]
-y = ":clipboard-yank"
+y = ":primary-clipboard-yank"
 p = ":primary-clipboard-paste-before"
 
 [keys.insert]

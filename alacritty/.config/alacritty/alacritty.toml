@@ -11,19 +11,19 @@ general.import = [
 [font.normal]
 # family = "Native" # good font, but := has weird alignment
 # family = "Essential PragmataPro"
-family = "PragmataProMonoLiga Nerd Font"
+family = "PragmataPro Mono"
 style = "Regular"
 
 [font.bold]
-family = "PragmataProMonoLiga Nerd Font"
+family = "PragmataPro Mono Bold"
 style = "Bold"
 
 [font.italic]
-family = "PragmataProMonoLiga Nerd Font"
+family = "PragmataPro Mono Italic"
 style = "Italic"
 
 [font.bold_italic]
-family = "PragmataProMonoLiga Nerd Font"
+family = "PragmataPro Mono Bold Italic"
 style = "Bold Italic"
 
 [font]

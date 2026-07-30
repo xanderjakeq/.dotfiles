@@ -19,7 +19,7 @@
 use std/config light-theme
 
 $env.config.show_banner = false
-$env.config.buffer_editor = "hx"
+$env.config.buffer_editor = "nvim"
 
 $env.PROMPT_COMMAND = {
   let dirs = (pwd | path split)
@@ -33,18 +33,26 @@ $env.PROMPT_COMMAND = {
 $env.EDITOR = 'hx'
 $env.KI_EDITOR_KEYBOARD = 'colemak'
 
+$env.HELIX_RUNTIME = '~/dev/helix/runtime'
+
 $env.LEDGER_FILE = ['~/writing/notes/.hledger.journal']
 
 $env.path ++= ["/usr/bin"]
 $env.path ++= ["~/dev/ols"]
 $env.LD_LIBRARY_PATH = ["/usr/local/lib/"]
 
+#uv and other bin?
+$env.path ++= ["/home/xanderjakeq/.local/bin"]
 #bob
 $env.path ++= ["/home/xanderjakeq/.local/share/bob/nvim-bin"]
 #go
 $env.path ++= ["/home/xanderjakeq/go/bin"]
+$env.path ++= ["/usr/local/go/bin/"]
+
 #bun
 $env.path ++= ["~/.bun/bin"]
+#deno
+$env.path ++= ["~/.deno/bin"]
 #Odin
 $env.path ++= ["/home/xanderjakeq/dev/odin/Odin"]
 $env.ODIN_ROOT = "/home/xanderjakeq/dev/odin/Odin"
@@ -59,7 +67,11 @@ $env.path ++= ["~/.cargo/bin"]
 $env.path ++= ["/home/xanderjakeq/dev/libwebp-0.4.1-linux-x86-32/bin"]
 
 #node bin
-$env.path ++= ["/home/xanderjakeq/.nvm/versions/node/v25.2.1/bin"]
+# $env.path ++= ["/home/xanderjakeq/.nvm/versions/node/v24.15.0/bin/"]
+
+# void zero
+$env.path ++= ["/home/xanderjakeq/.vite-plus/bin/vp"]
+
 #$env.path ++= ["/home/xanderjakeq/.nvm/versions/node/./bin"]
 
 # fly.io

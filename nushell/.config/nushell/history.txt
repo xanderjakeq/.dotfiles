@@ -1,0 +1,6765 @@
+ls
+exit
+ls
+zellij
+uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
+zellij
+exit
+ls
+zellijl
+cd dev
+zellij
+which zellij
+which uv
+uv
+cargo install --locked zellij
+cd ..
+curl -LsSf https://astral.sh/uv/install.sh | sh
+ls
+ls -a
+ls .cargo
+ls
+ls .config
+cd .dotfiles/
+ls
+cd nushell
+cd .config/
+ls
+cd nushell/
+ls
+curl -LsSf https://astral.sh/uv/install.sh | sh
+vim config.nu
+uv 
+nu config.nu
+uv
+ls /home/xanderjakeq/.local/bin
+vim
+vim config.nu
+$env.path
+$path
+bob
+bob list
+bob ls -a
+bob ls -h
+bob ls -v
+bob ls -vvv
+bob
+bob use stable
+nvim config.nu
+cd ..
+ls
+stow nvim
+nvim
+nivm --config
+nvim --config
+nvim -h
+nvim -u ./nvim/.config/nvim/init.lua
+ls nvim/.config/nvim
+cd nvim/.config/nvim
+git status
+git submodule update --init --recursive
+git remote get-url
+git remote
+git remote get-url origin
+ls
+pwd
+cd ../../../
+ls
+git submodule update --init --recursive
+ssh -h
+ssh-keygen -h
+ssh-keygen baltimore_city_laptop
+ssh-keygen
+ls
+ls -a
+nvim .gitmodules
+git submodule update --init --recursive
+git submodule sync
+git submodule update --init --recursive
+nvim
+cd nvim/ i
+cd nvim/.config/nvim
+nvim
+cargo binstall ripgrep
+curl -L --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/cargo-bins/cargo-binstall/main/install-from-binstall-release.sh | bash
+cargo binstall ripgrep
+nvim
+which unzip
+sudo apt install unzip
+nvim
+cd ..
+ls
+cd ..
+ls
+zellij
+cd .dotfiles/
+ls
+cd alacritty/
+ls
+cd .config/alacritty/
+ls
+ls -a
+$env.path
+ls `/mnt/c/Program Files/Alacritty`
+ls
+cd ~
+ls
+pwd
+cd -
+pwd
+exit
+exit
+ls
+cd dev
+nvim
+uv -h
+uv python 
+uv python install 
+docker -h
+docker
+net localgroup docker-users xanderjakeq /add
+sudo update-alternatives --config iptables
+curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+bash
+kubectl version --client
+nvim etc/apt/sources.list
+ls /etc/apt/sources.list
+nvim /etc/apt/sources.list
+sudo nvim /etc/apt/sources.list
+which nvim
+sudo vim /etc/apt/sources.list
+sudo apt-get update
+sudo apt-get install r-base r-base-dev
+docker
+basch
+bash
+sudo bash
+bash
+npm i -g @openai/codex
+nvm use --lts
+exit
+nvm
+which nvm
+ls -a
+nvim .bashrc
+ls
+exit
+nvm
+npm
+bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
+cat .profile
+ls .nvim
+ls .nvm
+bash
+ls
+ls
+cd .dotfiles/zellij/.config/zellij/
+ls
+nvim config.kdl
+cd -
+ls
+cd .dotfiles/nushell/.config/nushell
+ls
+nvim config.nu
+nu config.nu
+zellij
+which nvim
+nvim .dotfiles/zellij/.config/zellij/config.kdl
+sudo apt install xclip
+zellij
+nvim .proile
+nvim .profile
+nvim .bashrc
+ls
+npm
+nu config.nu
+nvim .dotfiles/nushell/.config/nushell/
+nu .dotfiles/nushell/.config/nushell/config.nu
+npm
+ndoe
+node
+$env.path
+nvim .dotfiles/nushell/.config/nushell/config.nu
+nvim .dotfiles/nushell/.config/nushell/
+nvm
+npm
+which npm
+bash
+npm
+nvim .dotfiles/nushell/.config/nushell/
+nu .dotfiles/nushell/.config/nushell/config.nu
+npm
+nvm
+node
+nvim .dotfiles/nushell/.config/nushell/
+nu .dotfiles/nushell/.config/nushell/config.nu
+npm
+node
+:q
+exit
+zellij
+npm
+nvm
+node
+npm i -g @openai/codex
+codex
+ls
+codex
+ls
+cd dev
+git clone https://github.com/city-of-baltimore/data-product-template.git
+!Zttxt7X73evHBtcUTqe5wciHqEs
+git clone https://github.com/city-of-baltimore/data-product-template.git
+cd ..
+ls
+ls .ssh
+ls .ssh/known_hosts
+ls .ssh
+ssh-keygen
+ls .ssh
+nvim .ssh/id_ed25519.pub
+cd dev
+git clone git@github.com:city-of-baltimore/data-product-template.git
+ls
+exit
+cd dev/data-product-template/
+git status
+git checkout -b ai-test
+git status
+nvim
+yz
+cargo binstall yazi-fm
+yz
+cargo binstall --strategies crate-meta-data jj-cli
+jj
+exit
+ls
+cd ..
+ls
+mkdir component-library
+ls
+rm -rf component-library/
+ls
+mkdir opi-component-library
+ls
+cd opi-component-library/
+ls
+jj git init --colocat
+jj git init --colocate
+ls
+npm init -h
+npmrc
+npm init
+curl -fsSL https://vite.plus | bash
+nvm
+cd ..
+ls
+nvim .dotfiles/nushell/.config/nushell/
+cd ..
+nvim .dotfiles/nushell/.config/nushell/config.nu
+nu .dotfiles/nushell/.config/nushell/config.nu
+vp
+vp
+cd ..
+rm -rf opi-component-library/
+vp
+pnpm
+cd opi-component-library/
+vp run
+vp dev
+vp dev --host
+zellij
+cd ..
+ls
+cd opi-component-library/
+vp dev --host 0.0.0.0
+vp dev -h
+curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc \<\n>  | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null \<\n>  && echo "deb https://ngrok-agent.s3.amazonaws.com bookworm main" \<\n>  | sudo tee /etc/apt/sources.list.d/ngrok.list \<\n>  && sudo apt update \<\n>  && sudo apt install ngrok
+ls ..
+ls
+cd ~
+ls
+cd ..
+ls
+cd ..
+ls
+ls usr
+cd ..
+ls
+cd ..
+ls
+ls media
+ls mnt
+ls mnt/c
+docker
+ls mnt/c/Users/XanderJake.DeLosSant/Downloads/
+ls
+ls mnt/c/Users/XanderJake.DeLosSant/Downloads/
+sudo tar -xvzf mnt/c/Users/XanderJake.DeLosSant/Downloads/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
+ngrok
+ngrok config add-authtoken 54mQvSuGY1Ea7yjeeM7zR_EXrsfeNzudTZWZ3F9t86
+bash
+vp dev --host
+nvim
+cd ..
+rm -rf opi-component-library/
+rm -rf opi-component-library/ -f
+ls
+npm 
+vp dev
+zellij
+cd ..
+ls
+cd xanderjakeq/
+npm
+cd dev
+ls
+npm create vite@latest
+ls
+cd opi-component-library/
+npm i
+ngrok
+curl http://localhost:5137
+npm run dev
+npm run dev --host
+npm run dev -h
+nvim
+yz
+nvim
+fg
+yz
+fg
+nvim
+ls -a
+cat .gitignore
+nvim
+apt install fd-find
+sudo apt install fd-find
+nvim
+npm run dev -- --host
+cargo binstall just
+just dev
+ls
+yz
+exit
+npm run dev -- --host
+yz
+npm run bulid
+npm run build
+ls
+ls lib
+yz
+npm run build
+yz
+npm i vite-plugin-dts -D
+just build
+ls dist
+cat dist/opi-component-library.js
+yz
+just build
+ls dits
+ls dist
+ls dist/lib
+ls dist
+just build
+npm i glob -D
+just build
+ls dist
+ls dist/lib
+jj
+jj config
+jj config get
+jj config list
+jj
+git status
+jj git init --colocate
+git clean -xdf
+jj
+ls
+git status
+nvim
+jj
+npm create vite@latest
+cd ..
+rm -rf opi-component-library/
+npm create vite@latest
+zellij
+cd ..
+cd opi-component-library/
+jj git init --colocate
+ls
+jj
+jj conig set --user user.email "xanderjake.delossantos@baltimorecity.gov"
+jj
+jj conig
+jj config set --user user.email "xanderjake.delossantos@baltimorecity.gov"
+jj metaedit --update-author
+jj config set --user user.name "Xander Jake de los Santos"
+jj metaedit --update-author
+jj
+ls
+jj desc
+jj
+jj b -h
+jj b s -h
+jj
+jj b s -r n main
+jj
+jj new
+jj
+yz
+npm i glob -D
+npm i vite-plugin-dts -D
+nvim
+cd dev
+ls
+cd opi-component-library/
+ls
+exit
+exit
+exit
+exit
+zellij
+ls
+just list
+jsut
+just
+just build
+ls
+mkdir lib
+just build
+touch lib/main.ts
+just build
+ls dist
+ls dist -a
+ls dist/lib
+ls
+cd dev/opi-component-library/
+ls
+yz
+ls
+yz
+exit
+nvim
+exit
+zellij
+exit
+cd dev/opi-component-library/
+nvim
+exit
+exti
+zellij
+cd ../../
+ls
+alacritty -v
+exit
+ls
+cd dev/ i
+cd dev/opi-component-library/
+ls
+cd ~
+cd ..
+ls
+cd mnt/c/
+zellij
+exit
+ls
+cd dev/ i
+cd dev/opi-component-library/
+yz
+npm install @mui/material @emotion/react @emotion/styled
+npm uninstall @emotion/react
+npm install @emotion/react
+npm i maplibre-gl @mui/icons-material
+just dev
+npm i @mui/x-charts
+ls
+just dev
+jj
+jj new -B zo
+jj
+jj edit zo
+jj squash -i
+date now
+ls
+exit
+exit
+zellij
+npm create storybook@latest
+jj
+jj squash -i
+jj
+jj show
+jj show -s
+jj
+jj desc s
+jj
+jj desc
+jj
+jj new
+jj
+jj desc
+jj
+npm create storybook@latest
+npm run storybook
+ls lib/components/
+cd ..
+ls
+cd dev
+ls
+cd data-product-template/
+yz
+yz
+jj
+jj n -B
+jj new -B 
+ls
+jj
+jj new -B r
+jj
+jj squash -i
+jj edit rv
+jj squash -i
+jj
+jj undo
+jj
+jj show -s
+jj 
+jj new -B r
+jj
+jj  edit r
+jj
+jj squash -i
+jj
+jj desc w
+jj
+jj show -s r
+jj
+jj squash -i
+jj
+jj show
+jj show -s
+jj desc
+jj
+jj new
+npm run storybook
+ls
+yz
+ls
+npm add react-router-dom
+ls
+cp frontend/src/assets/branding/city-of-baltimore-logo.png ../opi-component-library/lib/assets/branding/
+exit
+yz
+ls
+npm i
+exit
+nvim
+just storybok
+just
+git pull
+git felch
+git fetch
+cd ..
+git clone git@github.com:city-of-baltimore/city-services-dash.git
+npm i
+ls
+cd city-services-dash/
+npm i
+npm run dev
+ls
+uv -h
+ls -a
+uv venv
+exit
+nvim
+overlay use .venv/bin/activate.nu 
+ls
+pip -h
+uv pip
+ls
+cat pyproject.toml
+ls
+cat package.json
+uv sync
+git status
+git checkout xanderjakeq:repo-exploration -b
+git checkout -b xanderjakeq:repo-exploration
+git checkout -b xanderjakeq-repo-exploration
+ls
+git status
+uv pip install pyproject.toml
+ls
+cat README.md
+ls
+cat AGENTS.md
+nvim
+yz
+cd ..
+just storybook
+cd ./city-services-dash/
+ls
+just build
+jj
+jj desc
+jj
+jj new
+jj
+yz
+jj
+just build
+nvim
+npm run build -hj
+npm run build -h
+just build
+jj
+jj abandon u
+jj
+yz
+just build
+yz
+just build
+nvim
+just build
+cargo install bacon
+ls
+bacon --init
+bacon
+cargo install --locked watchexec-cli
+just fixerrs
+ls
+cat .gitignore
+ls dist/lib
+yz
+rm -rf dist/
+just build
+yz
+yz
+nvim
+just dev
+yz
+just dev
+ls
+pwd
+npm install /home/xanderjakeq/dev/opi-component-library/dist/
+just build
+ls
+yz
+just build
+npm link
+nvim
+cd ..
+ls
+npm create vite@latest
+ld
+ls
+cd opi-component-lib-usage-test/
+ls
+npm link opi-component-library
+nvim
+npm run dev
+npm run dev -- --host
+nvim
+npm run dev -- --host
+cd ..
+ls
+npm run dev -- --host
+ls
+ls
+nvim
+yz
+jj
+jj desc
+jj
+jj new
+jj
+exit
+cd opi-component-library/
+yz
+jj
+jj edit t
+jj
+jj new -B
+jj
+jj new -B @
+jj
+jj edit t
+jj
+jj squash -i
+jj
+jj desc rw
+jj
+exit
+jj
+jj show -s
+jj
+jj desc
+exit
+nvim
+npm run dev -- --host
+nvim
+nvim
+cargo binstall helix
+ls
+jj
+jj new
+jj
+ls
+ls -a
+mkdir -h
+mkdir -v .github/workflows
+yz
+node -v
+jj
+jj desc
+jj
+jj new
+jj desc
+jj
+jj desc
+clear
+jj
+ls
+jj
+ls
+jj
+ls
+exit
+jj
+jj squash -i
+jj
+jj desc 
+yz
+jj git remote
+jj git remote add
+jj git remote add origin git@github.com:balt-opi/ui-components.git
+jj
+jj b s -r zv main
+jj
+jj git push
+jj b t main --remote=origin
+jj git push -h
+jj git push -b main --remote origin
+ls
+jj git push -b main --remote origin
+jj
+jj new -A z
+jj
+just build
+jj
+nvim
+jj abandon y
+jj
+just
+jj -h
+jj
+nvim
+yz
+nvim
+just fixerrs
+jj desc
+jj
+just
+just storybook
+just dev
+just
+jj
+jj b s main -r y
+jj
+jj git push -b main --remote origin
+npm ls -l
+jj
+jj squash
+jj
+jj squash 
+jj squash --ignore-immutable
+jj
+jj git push -b main --remote origin
+jj
+jj squash --ignore-immutable
+jj
+jj git push -b main --remote origin
+cd ..
+ls
+cat package-lock.json
+rm -rf package-lock.json
+jj
+ls
+mkdir install_artifacts
+cd install_artifacts/
+rm -rf /usr/local/go && tar -C /usr/local -xzf go1.26.2.linux-amd64.tar.gz
+bash
+cd /mnt/c/Users/XanderJake.DeLosSant/Downloads/
+ls
+bash
+cd ~
+ls
+nvim .dotfiles/nushell/.config/nushell/config.nu
+nu .dotfiles/nushell/.config/nushell/config.nu
+go
+ls /usr/local/go/bin/
+nvim .dotfiles/nushell/.config/nushell/config.nu
+nu .dotfiles/nushell/.config/nushell/config.nu
+go
+jj
+jj squash --ignore-immutable
+jj 
+jj git push -b main --remote origin
+nvim
+npm install @balt-opi/ui-components@0.0.0
+ls
+touch .npmrc
+nvim .npmrc
+npm install @balt-opi/ui-components@0.0.0
+npm help npmrc
+npm install @balt-opi/ui-components@0.0.0
+nvim .npmrc
+npm install @balt-opi/ui-components@0.0.0
+nvim .npmrc
+npm install @balt-opi/ui-components@0.0.0
+nvim .npmrc
+npm install @balt-opi/ui-components@0.0.0
+nvim
+npm run dev -- --host
+nvim
+yz
+nvim
+jj
+just build
+jj
+jj show -s
+jj
+jj desc
+nvim
+jj
+jj b s main -r s
+jj git push -b main --remote origin
+ls
+npm uninstall @balt-opi/ui-components
+npm install @balt-opi/ui-components
+yz
+npm uninstall @balt-opi/ui-components
+nvim
+jj
+jj squash --ignore-immutable
+jj git push -b main --remote origin
+npm install @balt-opi/ui-components
+nvim
+yz
+nvim
+npm run dev -- --host
+nvim
+npm run dev -- --host
+nvim
+exit
+jj
+jj desc
+jj
+jj b s main -r u
+jj git push -b main --remote origin
+nvim
+npm run dev -- --host
+ls
+nvim
+nvim
+yz
+ls
+jj
+jj
+just dev
+nvim
+yzx
+yz
+ls .storybook/
+nvim .storybook/main.ts
+yz
+nvim
+yz
+ls
+nvim
+yz
+just build
+yz
+just build
+yz
+nvim
+yz
+just build
+yz
+nvim
+just build
+yz
+cd dev
+ls
+cd opi-component-library/
+zellij
+cd ..
+ls
+mkdir artscape-shop
+cd artscape-shop/
+ls
+cd ..
+ls
+touch wiki-thoughts.md
+nvim wiki-thoughts.md
+yz
+cd ..
+nvim .dotfiles/zellij/.config/zellij/config.kdl
+nvim .dotfiles/zellij/.config/zellij/layouts/
+zellij
+go
+go mod init
+go mod init github.com/balt-opi/artscape-shop
+ls
+cat go.mod
+go install github.com/a-h/templ/cmd/templ@latest
+go get github.com/a-h/templ
+nvim
+yz
+templ generate
+ls
+go run
+ls
+go run .
+which sqlite
+sudo apt update
+sudo apt install sqlite3
+which sqlite3
+go get github.com/gofiber/fiber/v3
+jj
+go get github.com/mattn/go-sqlite3
+sqlite3 artscape_shop.db
+ls
+touch artscape_shop.db
+sqlite3 artscape_shop.db
+ln -h
+ln -s
+ln --help
+touch /mnt/c/Users/XanderJake.DeLosSant/Downloads/artscape_shop.db ./
+ls
+ls -a
+rm -rf artscape_shop.db
+touch /mnt/c/Users/XanderJake.DeLosSant/Downloads/artscape_shop.db
+ln -s /mnt/c/Users/XanderJake.DeLosSant/Downloads/artscape_shop.db ./
+ls
+sqlite3 ./artscape_shop.db
+go get -u github.com/stripe/stripe-go/v85
+go get github.com/joho/godotenv
+nvim
+jj git init --colocate
+jj
+nvim
+just 
+cd dev
+ls
+cd artscape-shop/
+ls
+just dev
+lsof -i :8000
+kill 15726
+lsof -i :8000
+just dev
+cargo install --locked hurl
+cargo install xh
+xh -h
+xh --help
+xh 127.0.0.1:8000/product
+xh post 127.0.0.1:8000/product
+xh --offline post 127.0.0.1:8000/product
+just dev
+xh --offline post 127.0.0.1:8000/product
+xh --help
+xh post 127.0.0.1:8000/product
+nvim
+xh post 127.0.0.1:8000/product
+watchexec -h
+jsut dev
+xh post 127.0.0.1:8000/product
+xh get 127.0.0.1:8000/
+just dev
+lsof -i :8000
+kill 26825
+jsut dev
+xh get 127.0.0.1:8000/
+just dev
+go install github.com/air-verse/air@latest
+air -h
+air init
+air
+lsof -i :8000
+kill 27143
+jj
+jj desc
+jj
+xh get 127.0.0.1:8000/
+air
+just dev
+lsof -i :8000
+kill 28869
+just dev
+lsof -i :8000
+kill 29768
+xh get 127.0.0.1:8000/
+air
+go run .
+lsof -i :8000
+kill 29992
+air
+lsof -i :8000
+kill 30681
+xh get 127.0.0.1:8000/
+go run .
+xh get 127.0.0.1:8000/
+go run .
+xh get 127.0.0.1:8000/
+lsof -i :8000
+kill 31292
+go run .
+nvim
+jsut dev
+xh get 127.0.0.1:8000/
+just dev
+lsof -i :8000
+kill 33128
+xh get 127.0.0.1:8000/
+go run .
+xh get 127.0.0.1:8000/
+go run .
+lsof -i :8000
+kill 34460
+go run .
+xh get 127.0.0.1:8000/
+cargo install --locked tree-sitter-cli
+sudo apt install build-essentials
+sudo apt install build-essential
+sudo apt upgrade
+cargo install --locked tree-sitter-cli
+sudo apt install clang
+cargo install --locked tree-sitter-cli
+nvim
+clear
+nvim
+xh get 127.0.0.1:8000/
+cargo run .
+xh get 127.0.0.1:8000/
+go run .
+xh get 127.0.0.1:8000/
+just tets
+just test
+go run .
+lsof -i :8000
+kill 60797
+just create-product
+just get
+just
+just test-get
+go run .
+lsof -i :8000
+kill 61212
+ls
+just create-product
+go run .
+lsof -i :8000
+kill 61969
+just create-product
+go run .
+just create-product
+just crea
+just create-product
+just create-product artwork-2
+nvim
+ls
+cd ..
+mkdir artscape-shopify
+ls
+cd artscape-shopify/
+zellij
+exit
+exit
+cd ..
+cd artscape-shopify/
+npm install -g @shopify/cli@latest
+shopify help
+shopify theme
+shopify theme pull
+shopify theme pull --store=scout.artscape.org
+exit
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme pull --store=scout.artscape.org
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme pull -h
+shopify theme -h
+ls
+mkdir theme
+cd theme
+ls
+shopify theme init
+shopify theme pull --store=scout-art-fair.myshopify.com
+exit
+cd theme
+ls
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme pull
+shopify auth logout
+shopify auth login
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme -h
+nvim
+ls
+exit
+nvim
+shopify theme dev
+zellij
+shopify theme dev
+ls
+cd theme
+ls
+nvim
+clear 
+hx
+vim
+nvim
+yz
+nvim
+jj
+ls
+cd ..
+cd theme
+ls
+jj git init --colocate
+jj
+jj desc s
+git status
+git log
+jj
+jj new
+jj
+jj desc
+jj
+nvim
+ip addr show
+ip addr
+hostname -I
+sudo systemctl start ssh
+sudo apt install openssh-server openssh-client
+sudo systemctl start ssh
+sudo systemctl status ssh
+exit
+ssh localhost
+ip addr
+ls
+ip addr show
+hostname -I
+sudo vim /etc/ssh/sshd_config
+sudo systemctl restart ssh
+yz
+nvim
+exit
+zellij
+ls
+cargo install slumber
+cd ..
+ls
+cd ..
+ls
+git clone https://tangled.org/xanderjakeq.page/ticket-explorer
+ls
+cd ticket-explorer/
+ls
+cd rust-backend/
+ls
+ls data/
+cd ..
+ls
+cd rust-backend/
+yz
+ls
+cd ..
+ls
+cd rust-backend/
+ls
+nvim
+ls
+nvim
+exit
+exit
+zellij
+cd ..
+ls
+cd ..
+ls
+cd artscape-shopify/
+ls
+cd theme
+ls
+nvim
+zellij
+exit
+ls
+cd dev
+ls
+cd artscape-shopify/
+ls
+rm -rf theme/
+nvim
+ls
+zellij
+exit
+ls
+cd dev
+ls
+cd artscape-shop
+ls
+just
+just test-get
+nvim
+just dev
+jsut dev
+jst
+just create-product artwork-5
+slumber
+zellij
+cd ..
+ls
+cd artscape-shopify/
+ls
+shopify theme pull --store=scout-art-fair.myshopify.com
+mkdir theme
+ls
+cd theme
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj git init --colocate
+jj
+ls
+shopify theme dev
+nvim
+yz
+nvim
+yz
+jj
+jj desc
+jj new
+exit
+nvim
+jj
+jj desc
+exit
+shopify theme -h
+shopify theme check
+ls
+shopify theme push -h
+shopify theme push -p
+cd ..
+cd theme
+cd ..
+ls
+nvim aboutpage.html
+yz
+cd theme
+yz
+nvim
+cd ..
+ls
+cd artscape-shop
+ls
+nvim
+cd ..
+cd artscape-shopify/
+ls
+cd theme
+ls
+jj
+jj new
+jj
+jj desc
+exit
+nvim
+jj
+jj show -s
+exit
+jj
+jj desc
+exit
+jj
+jj new
+jj
+yz
+jj desc
+jj
+exit
+jj
+jj new
+exit
+shopify theme push -p
+jj
+jj show -s
+ls
+exit
+jj
+jj desc
+jj
+jj new
+jj
+jj edit v
+jj new
+jj
+jj desc
+exit
+jj
+exit
+jj
+jj 
+jj -h
+jj
+jj rebase -h
+jj
+jj rebase --onto k
+jj
+jj desc qk
+jj
+jj desc
+jj
+exit
+jj
+jj edit v
+jj
+jj edit v
+jj rebase --onto x
+jj
+jj rebase --onto r
+jj
+jj edit k
+jj rebase --onto r
+jj
+exit
+jj
+jj rebase --onto r
+jj
+jj edit x
+jj
+jj rebase --onto rv
+jj rebase --onto v
+jj
+jj edit v
+jj
+jj rebase --onto k
+jj
+jj edit k
+jj
+jj rebase --onto r
+jj
+jj edit v
+exit
+jj rebase -h
+jj
+jj rebase -r k -d x
+jj
+jj rebase -r v -d k
+jj
+jj abandon qk
+jj
+jj rebase -r q -d v
+jj
+jj edit q
+shopify theme push -p
+jj
+jj new
+jj desc
+jj
+exit
+jj
+jj desc
+jj
+jj edit v
+jj
+exit
+jj
+jj edit s
+exit
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+zellij
+yz
+jj
+yz
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show -s
+jj show
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj new
+jj
+jj desc
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj rebase -r o -d q
+jj
+jj show
+jj
+jj rebase -r q -d o
+jj
+jj undo
+jj
+jj rebase -r s -d o
+jj
+jj edit s
+jj
+jj show -s
+nvim
+jj
+ls
+jj
+jj edit o
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+git status
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj edit s
+jj
+jj show -s
+jj
+shopify theme push -p
+jj
+jj new
+jj
+ls
+jj
+ls
+jj
+jj add desc
+jj desc
+nvim
+exit
+jj git -h
+jj git remote add origin git@github.com:city-of-baltimore/artscape-scout-shopify-theme.git
+jj
+jj b s main -r l
+jj
+jj git push -b main --remote origin
+shopify theme dev
+ls
+cd /mnt/c/Users/XanderJake.DeLosSant/
+ls
+ls -a
+ls
+cd glazewm/
+ls
+cd /mnt/c/Users/XanderJake.DeLosSant/.glzr/
+ls
+cd glazewm/
+ls
+nvim config.yaml
+exit
+ls
+cd /mnt/c/Users/XanderJake.DeLosSant/.glzr/
+ls
+cd glazewm/
+ls
+nvim config.yaml
+cd ~
+sl
+cd dev
+ls
+cd artscape-shopify/
+cd theme/
+jj
+jj show -all
+jj show --all
+jj show -h
+jj log -h
+jj log -n 1000
+jj log -r 'all()'
+jj desc
+nvim
+hz
+hx
+nvim
+shopify theme dev
+jj
+jj new -B @
+jj
+jj edit w
+jj
+jj squash -i
+jj
+jj desc m
+jj
+jj new -A m
+jj
+jj dec
+jj desc
+jj
+jj rebase -r w -d m
+jj
+nvim
+yz
+nvim
+shopify theme push -p
+jj
+jj show -s
+jj
+jj new -B @
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+ls
+jj show -s
+jj
+jj undo
+jj
+jj edit r
+jj edit k
+jj
+jj abandon r
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj show -s
+jj
+jj abandon w
+jj
+yz
+jj show -s
+rm -rf snippets/about_content.liquid
+jj
+jj new
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+ls
+cd dev
+ls
+cd artscape-shopify/
+ls
+cd theme
+ls
+jj
+jj show -s
+jj show
+cd ..
+cd theme
+nvim
+ls
+cd ..
+ls
+nvim
+ls
+cd theme
+ls
+jj
+jj show
+jj 
+jj desc
+jj new
+jj desc
+exit
+jj
+jj squash
+jj
+jj desc
+jj
+jj desc w
+jj
+jj abandon n
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show -s
+jj show
+jj
+jj squash
+jj
+shopify theme push -p
+jj
+jj edit wn
+jj
+jj show
+jj
+shopify theme push -p
+jj
+shopify theme push -p
+shopify theme dev
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj new
+jj desc
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show
+jj show -s
+jj
+jj new -By
+jj new -B @
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj desc
+jj
+jj edit lt
+jj
+jj show
+jj show -s
+jj desc
+jj
+jj b s main -r lt
+shopify theme push -p
+jj git push -b main --remote origin
+jj
+exit
+jj
+jj desc
+shopify theme dev
+jj
+jj new -B @
+exit
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj edit p
+jj
+shopify theme dev
+jj
+jj theme push -p
+shopify theme push -p
+shopify theme dev
+nvim
+exit
+exit
+zellij
+exit
+zellij
+exit
+cd dev
+ls
+cd arts i
+cd artscape-shopify/
+ls
+cd theme
+cargo install btop
+btop
+cargo install botom
+cargo install bottom
+cargo install htop
+htop
+ls
+jj
+jj new
+shopify theme pull
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show
+jj squash
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj squash
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show
+jj squash
+jj
+jj desc
+jj
+nvim ../aboutpage.html
+jj new
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj squash
+jj
+shopify theme push -p
+jj
+jj show -s
+shopify theme push -p
+jj
+jj new
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj squash
+jj
+shopify theme dev
+jj edit q
+jj
+jj squash
+jj
+jj edit n
+jj
+shopify theme push -p
+jj
+jj squash
+jj
+shopify theme push -p
+jj
+shopify theme push -p
+jj
+jj squash
+jj
+jj edit s
+jj b s main -r s
+jj
+jj git push -b main --remote origin
+jj
+jj abandon v
+jj
+jj git push -b main --remote origin
+jj
+jj show 
+jj
+jj abandon l
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show
+shopify theme pull --store=scout-art-fair.myshopify.com
+ls
+jj
+jj show -s
+jj
+jj desc
+jj
+jj new
+jj
+shopify theme dev
+jj new
+jj pull
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme dev
+nvim
+exit
+zellij
+exit
+ls
+cd dev
+ls
+cd artscape-shopify/
+ls
+cd theme
+ls
+shopi i
+shopify theme dev
+jj
+jj show -s
+jj show
+jj
+jj abandon y
+jj
+jj edit o
+jj
+jj show -s
+jj show
+shopify theme push -p
+shopify theme dev
+ls
+ls -a
+shopify -h
+shopify config
+cd ..
+ls
+cargo new
+cargo new qrcode_generator
+ls
+cd qrcode_generator/
+ls
+cargo add qrcode
+cargo add image
+cargo run
+exit
+ls /mnt/c/Users/XanderJake.DeLosSant/Downloads/
+ls
+cd ..
+cd qrcode_generator/
+ls
+cargo run
+shopify theme dev
+jj
+cargo run
+nvim
+cd ..
+ls
+l
+ls
+cd theme
+ls
+jj
+shopify theme dev
+jj
+jj desc
+shopify theme push -p
+shopify theme dev
+shopify theme push -p
+shopify theme push -p
+shopify theme dev
+shopify theme push -p
+shopify theme dev
+shopify theme push -p
+shopify theme dev
+jj
+jj new
+jj
+jj edit o
+nvim
+cargo run
+nvim
+cargo run
+nvim src/main.rs
+cargo run
+bacon
+cargo run
+exit
+nvim src/main.rs
+jj
+jj new
+jj
+jj desc
+shopify theme dev
+shopify theme push -p
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme dev
+shopify theme push -p
+jj
+jj new
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show
+shopify theme push -p
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj edit w
+jj
+jj show
+jj show -s
+jj
+shopify theme push -p
+jj
+jj edit kw
+shopify theme push -p
+jj
+shopify theme dev
+shopify theme push -p
+shopify theme push -p
+jj
+jj show -s
+ls templates
+jj
+jj show -s
+jj show
+jj
+jj squash -i
+jj
+jj desc
+jj
+jj b s main -r kw
+jj
+jj git push -b main --remote origin
+jj
+jj show
+jj show -s
+jj show
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+ls
+cd dev
+ls
+cd artscape-shopify/
+ls
+cd theme
+ls
+nvim
+yz
+nvim
+cd ..
+ls
+cd ..
+ls
+mkdir artmap
+cd artmap
+ls
+touch img_downloader.js
+ls
+nvim
+cd ..
+ls
+cd artscape-shopify/
+ls
+cd theme
+ls
+nvim
+exit
+zellij
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+shopify theme push -p
+jj log -r 'all()'
+jj show su
+ls
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show -s
+jj
+jj desc
+jj
+jj new
+jj desc
+jj
+nvim
+shopify theme dev
+shopify theme dev
+jj
+jj show -s
+jj show
+jj
+shopify theme push -p
+jj
+jj new
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj b s main -r t
+jj git push -b main --remote origin
+jj
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj desc
+jj
+shopify theme push -p
+ls
+cd ..
+ls
+cd qrcode_generator/
+cd ..
+ls
+cd qrcode_generator/
+ls
+cargo run
+nvim
+nvim
+cargo run
+nvim
+cargo run
+nvim
+cargo run
+ls
+nvim
+cargo run
+cd ..
+ls
+cargo new daily_order_reporting
+ls
+cd daily_order_reporting/
+ls
+cd ..
+ls
+cd daily_order_reporting/
+ls
+cargo add csv
+cargo add serde
+cargo run
+ls
+ls /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+cargo run /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+cargo add clap
+nvim
+ls
+yz
+cargo run /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+cargo run --help
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+cargo run -- --help
+cargo run -- -n xander -c 100
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv day1_reports
+nvim /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+sudo nvim /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+sudo vim /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv day1_reports
+nvim /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv day1_reports
+bacon
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv day1_reports
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1.csv day1_report
+cargo run -- /mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1(1).csv day2_report
+cargo run -- "/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1(1).csv" day2_report
+ls `/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1(1).csv`
+cargo run -- `/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1(1).csv` day2_report
+cargo run -- `/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export.csv` day2_report
+cargo run -- `/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export(4).csv` day2_report
+cargo run -- `/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1(5).csv` orders_report
+mkdir /mnt/c/Users/XanderJake.DeLosSant/Downloads/order_reports/
+cargo run -- `/mnt/c/Users/XanderJake.DeLosSant/Downloads/orders_export_1(5).csv` order_reports
+zellij
+cd ..
+ls
+cd theme
+ls
+shopify theme pull --store=scout-art-fair.myshopify.com
+jj
+jj show
+jj
+jj desc
+jj
+jj b s main -r w
+jj
+jj git push -b main --remote origin
+cd ..
+ls
+cd ..
+ls
+cd opi-component-library
+zellij
+cd ..
+cd opi-component-library
+ls
+nvim
+bob
+ub ls-remote
+bob ls-remote
+nvim
+just storybook
+npx storybook@latest upgrade
+just storybook
+jj
+jj show -s
+jj
+jj desc
+jj
+jj rebase -r n -d l
+jj
+npm install --save-dev @storybook/web-components-vite
+nvim
+yz
+yz 
+yz
+jj
+jj show -s
+jj
+jj rebase -r n -d u
+jj
+jj rebase -r l -d n
+jj
+jj squash -i
+jj
+jj squash -i
+jj
+jj rebase -r n -d l
+jj
+jj status
+nvim
+jj
+jj edit n
+jj
+nvim
+jj
+jj show -s
+nvim
+jj
+jj show
+nvim
+jj
+ls
+cd dev
+ls
+cd opi-component-library
+ls
+nvim
+jj
+jj edit l
+jj
+jj edit u
+jj
+jj edit u --ignore-immutability
+jj edit u --ignore-immutable
+jj
+jj edit n
+jj
+jj edit l
+jj
+just storybook
+nvim
+ls
+cd ..
+ls
+git clone git@github.com:xanderjakeq/helix.git
+cargo install \<\n>   --profile opt \<\n>   --config 'build.rustflags="-C target-cpu=native"' \<\n>   --path helix-term \<\n>   --locked
+bash
+cd helix/
+nvim
+bash
+nvim
+ls
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+hx --grammar fetch
+hx --grammar build
+hx
+cd ~
+ls
+ls -a
+cd .dotfiles
+ls
+stow helix
+cd helix/.config/helix/
+hx
+ls
+cd ~
+ls
+ls -a
+cd .config/helix/
+ls
+cd themes/
+ls
+hx
+cd ~
+cd .dotfiles/helix/.config/
+ls
+cd helix/
+ls
+hx
+hx
+zellij
+just storybook
+cd ..
+ls
+cd helix
+jj
+git status
+git log
+git status
+cd ..
+ls
+cd helix/
+git checkout add-jump-marks
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+cargo rebase -h
+git rebase -h
+git branches
+git branch
+git rebase master
+hx
+git rebase --continue
+git status
+hx
+git diff
+hx
+git rebase
+git rebase --continue
+git add helix-term/src/commands.rs
+git rebase --continue
+git config --global user.email "xanderjakeq@gmail.com"
+git config --global user.name "Xander Jake de los Santos"
+git rebase --continue
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+bacon
+cd helix-term/
+bacon
+bacon -h
+cargo install bacon
+bacon
+bacon -h
+bacon -- -h
+bacon
+rustup component add rustanalyzer
+rustup component add rust-analyzer
+hx
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+zellij
+cd ..
+ls
+cd opi-component-library/
+hx
+hx --health tsx
+npm install -g typescript-language-server typescript
+cd ~
+ls
+cd dev
+ls
+cd helix
+ls
+cd ~
+ls
+ls .dotfiles/helix/.config/helix/
+ls
+ln -s
+ls -h
+ls .dotfiles/helix/.config/helix
+ls
+ls -a
+ls .config
+ln -s ./dev/helix/runtime/ .config/helix/
+ln -s ./dev/helix/runtime/ .config/helix/runtime
+ls
+hx --health tsx
+hx --health
+ls .config/helix/
+ls
+ls .config/helix/runtime/
+rm -rf .config/helix/runtime/
+hx --grammar fetch
+ls .config/helix/runtime/
+hx --grammar build
+nu config.nu
+nu config
+cd dev
+cd helix
+ls
+ls runtime
+config nu
+zellij
+hx --health
+hx --grammar fetch
+hx -grammar build
+hx --grammar build
+config nu
+hx checkhealth
+hx --health
+$env.HELIX_RUNTIME
+config nu
+$env.HELIX_RUNTIME
+$env
+config nu
+exit
+$env.HELIX_RUNTIME
+config nu
+nu config
+config nu
+hx
+cd dev
+cd helix
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+nvim
+cd ..
+vim .dotfiles/nushell/.config/nushell/config.nu
+exit
+vim .dotfiles/nushell/.config/nushell/config.nu
+exit
+hx
+cd .dotfiles/nushell/.config/nushell
+hx
+exit
+vim .dotfiles/nushell/.config/nushell/config.nu
+exit
+vim .dotfiles/nushell/.config/nushell/config.nu
+exit
+cd dev/opi-component-library/
+hx --health
+$env.HELIX_RUNTIME
+ls $env.HELIX_RUNTIME
+config nu
+zellij
+$env.HELIX_RUNTIME
+ls $env.HELIX_RUNTIME
+cd $env.HELIX_RUNTIME
+cd ~/dev/helix
+config nu
+hx --health
+jj
+jj edit n
+cd dev/opi-component-library/
+hx
+jj
+jj edit l
+jj
+jj edit u --ignore-immutable
+jj edit l
+jj
+just storybook
+jj diff -h
+jj
+jj diff -f n -t l
+cd ..
+ls
+mkdir elenajs-wc
+cd elenajs-wc/
+ls
+npm i
+npm init
+hx
+jj
+jj git init --colocate
+jj
+jj desc
+jj
+npm install @elenajs/core
+jj
+yz
+hx .gitignore
+jj
+git status
+jj
+jj git restore node_modules/*
+git restore ./node_modules/*
+jj
+jj status
+jj -h
+jj untrack node_modules/
+jj
+jj sho w-s
+jj show -s
+jj
+jj -h
+jj file
+jj file untrack node_modules/
+jj
+jj show -s
+ls
+jj show -s
+jj
+npm install --save-dev @elenajs/bundler
+hx 
+yz
+hx
+cd ..
+zellij
+cd ..
+cd elenajs-wc/
+ls
+jj
+yz
+cd ..
+cd opi-component-library/
+ls
+hx
+cd ..
+cd elenajs-wc/
+npx elena build
+ls
+ls -a
+npx elena build
+ls
+yz
+npm link
+cd ..
+ls
+cd opi-component-lib-usage-test/
+hx
+ls
+jj
+git status
+npm link elenajs-wc
+exit
+cd ..
+cd opi-component-lib-usage-test/
+hx
+npm run dev -- --host
+npm add elenajs-wc
+npm link elenajs-wc --save
+npm run  i
+npm run dev -- --host
+yz
+npx elena build
+npx elena watch
+npm run dev -- --host
+yx
+yz
+npx elena watch
+npx elena build
+npm install --save-dev @elenajs/cli
+npx elena-create b-box
+hx --health js
+hx --health javascript
+yz
+npx elena build
+yx
+yz
+npx elena build
+ls
+hx
+touch component-library-notes.md
+cd dev
+ls
+cd opi-component-library/
+ls
+yz
+jj
+jj show -s
+jj
+jj edit n
+jj show -s
+just storybook
+cd ..
+ls
+cd artscape-shopify/
+ls
+yz
+exit
+zellij
+exit
+yz
+cd dev
+cd opi-component-library/
+hx checkhealth
+hx --health ts
+hx --health typescript
+exit
+hx
+npx storybook@latest upgrade
+hx
+just storybook
+nvim
+yz
+hx
+just storybook
+storybook -h
+npm run storybook -h
+jj
+yz
+cd ..
+ls
+cd opi-component-library/
+ls
+jj
+jj edit l
+jj show
+jj show -s
+jj
+jj new
+jj
+jj desc 
+cd ~
+cd .dotfiles/alacritty/.config/alacritty
+ls
+hx alacritty.toml
+cd /mnt/c/Users/XanderJake.DeLosSant/
+ls
+ls -a
+cd AppData/
+ls
+ls -a
+ls Local/
+ls
+cd Local/
+ls
+ls -a
+yz
+zellij
+exit
+alacritty -h
+alacritty
+cd /mnt/c/Users/XanderJake.DeLosSant/AppData/Roaming/
+ls
+cd alacritty/
+ls
+hx alacritty.toml
+exit
+cd dev
+ls
+cd opi-component-library/
+hx
+ls
+hx -h
+hx -v
+typescript
+hx
+cd ~
+cd .dotfiles/helix/.config/
+ls
+cd helix/
+ls
+npm install -g typescript-language-server typescript
+hx --health typescript
+bob
+bob ls-remote
+hx languages.toml
+nvim
+exit
+hx
+zellij
+ls
+cd ..
+ls
+cd elenajs-wc/
+ls
+hx
+ls
+jj
+jj new
+jj desc
+jj
+npm create storybook@latest
+mkdir storybook
+cd storybook
+npm create storybook@latest
+vite create
+vite
+cd ..
+rm -rf storybook/
+npm create storybook@latest storybook -- --template vanilla-ts
+npm create storybook@latest storybook -- vanilla-ts
+mkdir storybook
+cd storybook
+npm create storybook@latest
+npm create vite@latest
+cd ..
+rm -rf storybook/
+npm create vite@latest -- --temaplate vanilla-ts
+cd storybook
+npm create storybook@latest
+npx storybook@latest init
+ls
+cd ..
+rm -rf storybook/
+npm create vite@latest -- --temaplate vanilla-ts
+cd storybook/
+npm create storybook@latest
+cd ..
+ls
+mkdir storybook-wc-setup
+cd storybook-wc-setup/
+ls
+cd ~
+pwd
+wslpath -w "$PWD"
+wslpath 
+wslpath -w ~
+cargo install miniserve
+cd dev
+ls
+cd storybook-wc-setup/
+ls
+cd ..
+ls
+cd ticket-explorer/
+cargo run
+ls
+cd rust i
+cd rust-backend/
+ls
+cargo run
+just
+just --list
+just run
+just
+just --list
+just migrate
+just migrate run
+hx
+cargo run
+ls
+cd ..
+ls
+cd rust-backend/
+ls
+cargo sqlx -h
+cargo sqlx prepare
+cargo install sqlx
+cargo install sqlx-cli
+sudo apt-get install libssl-dev
+cargo install sqlx-cli
+cargo sqlx prepare
+just migrate run
+cd ..
+ls
+npm run seed.js
+node seed.js
+cat readme.md
+ls
+cd rust-backend/
+ls
+cd data
+ls
+cd ..
+just run
+hx
+ls
+cd ..
+ls
+cd ..
+ls
+cd storybook-wc-setup/
+ls
+hx
+yz
+jj
+jj git init --colocate
+jj
+jj desc
+jj
+ls
+jj desc
+jj
+jj new
+jj
+jj edit x
+jj
+npm create storybook@latest
+jj
+jj new
+jj
+yz
+ll
+jj
+npm create vite@latest -- --temaplate vanilla-ts
+npm create storybook@latest
+jj
+jj desc
+jj
+jj b s vanilla-wc -r x
+jj
+jj b s vanilla-ts -r t
+jj
+jj git remote add origin git@github.com:projectcollection/wc-storybook.git
+jj git push
+jj bookmark track vanilla-ts --remote=origin
+jj bookmark track vanilla-wc --remote=origin
+jj
+jj git push
+jj
+ls
+cd `vanilla ts vite/`
+ls
+jj
+ls
+cd ..
+ls
+rm -rf node_modules/
+ls
+rm -rf `vanilla ts vite/`
+jj
+ls
+rm -rf debug-storybook.log
+npm create vite@latest -- --temaplate vanilla-ts .
+npm create storybook@latest
+ls
+jj git push
+jj
+cd ..
+ls
+mkdir storybook-test
+cd storybook-test/
+ls
+npm create storybook@latest -h
+npm create vite@latest my-web-components -- --template vanilla-ts
+npm create storybook@latest
+ls
+cd my-web-components/
+npm create storybook@latest
+cd ..
+ls
+rm -rf .
+ls
+rm -rf my-web-components/
+rm -rf node_modules/
+ls
+rm -rf debug-storybook.log
+ls
+cd ..
+rm -rf storybook-test
+ls
+cd storybook-wc-setup
+ls
+npm install @storybook/web-components
+ls
+hx
+npm create storybook@latest
+hx
+npm create storybook@latest
+ls
+jj
+jj new
+yz
+npx storybook@latest -- --type html
+npx storybook@latest -
+npx storybook@latest -h
+npx storybook@latest --h
+npx storybook@latest -- --help
+npx storybook@latest --
+npx storybook@latest --help
+npx storybook@latest init --help
+npx storybook@latest init --type html
+jj
+ls
+ls node_modules/
+rm -rf node_modules/
+ls
+rm -rf debug-storybook.log
+npm init
+npx storybook@latest init --type html
+ls
+ls stories
+hx
+yz
+cd ..
+ls
+cd opi-component-library/ls
+cd opi-component-library/
+yz
+jj
+ls
+hx
+n::q
+:q
+cd dev
+ls
+cd opi-component-library/
+hx
+jj
+jj edit n
+jj
+ls
+ls public
+ls lib
+ls lib/stories
+ls
+ls lib/stories
+cd lib
+ls
+yz
+cd ..
+ls
+rm -rf lib
+ls
+rm -rf dist
+ls
+npx storybook@latest init --type html
+ls
+just storybook
+yz
+zellij
+cd ..
+cd elenajs-wc/
+just storybook
+npm run storybook
+ls
+cd storybook
+ls
+ls public
+ls src
+cd ..
+jj
+rm -rf storybook
+npx storybook@latest init --type html
+ls
+ls src
+hx
+yz
+ls
+yz
+jj
+jj new
+yz
+npm run storybook
+hx
+yz
+hx
+yz
+hx
+yz
+npm run storybook
+rm -rf node_modules/.cache/storybook/
+npm run storybook
+zellij
+ls
+jj
+jj edit zx
+jj
+jj abandon s
+jj
+jj new
+yz
+hx
+hx .storybook/main.js
+npm run storybook
+yz
+hx
+jj
+jj desc t
+jj
+ls
+ls src
+ls stories
+ls src/stories
+jj
+cd ..
+ls
+cd opi-component-library
+jj
+ls
+yz
+hx
+ls
+ls -a
+jj
+jj edit l
+jj
+ls
+ls -a
+hx
+ls
+ls -a
+ls
+ls -a
+touch .npmrc
+ls
+ls -a
+ls
+hx .npmrc
+ls
+touch readme.md
+hx
+jj
+ls
+jj config set --user ui.default-command log
+jj
+touch justfile
+elena build
+ls
+just build
+npm publish
+hx README.md
+yz
+hx
+jj git remote list
+jj git remote -h
+jj git remote add origin git@github.com:balt-opi/ui-components.git
+jj
+cd ..
+ls
+cd dev
+cd ~
+cd dev
+ls
+cd opi-component-library-react/
+jj git push
+jj 
+jj b s main -r t
+jj git push -b main --remote origin
+jj git remote add origin git@github.com:balt-opi/ui-components.git
+jj git push -b main --remote origin
+jj git fetch origin main
+jj git fetch -h
+jj git fetch --remote origin -b main
+jj
+jj git push -b main --remote origin
+jj b t main --remote=origin
+hx
+jj
+jj rebase -r um -d ux
+jj
+jj new um
+jj resolve
+jj
+jj squash
+jj
+jj new zx
+jj resolve
+jj
+jj squash
+jj
+jj new t
+jj resolve
+jj
+jj squash
+jj
+jj git push -b main --remote origin
+jj
+jj b s main -r t
+jj
+jj git push -b main --remote origin
+git status
+git branch
+git checkout main
+jj
+jj git push -b main --remote origin
+ls
+hx
+yz
+hx
+jj
+jj squash
+jj squash -- i
+jj squash --ignore-immutable
+jj git push -b main --remote origin
+hx
+jj
+jj squash
+jj squash --ignore-immutable
+jj git push -b main --remote origin
+jj
+ls
+ls -a
+npm run storybook
+just storybook
+ls
+hx
+npm i
+cd ../../
+ls
+cd dev
+cd elenajs-wc/
+ls
+ls src
+yx
+yz
+cd ..
+ls
+cd ticket-explorer/rust-backend/
+ls
+cd static
+ls
+yz
+cd ..
+ls
+git clone git@github.com:balt-opi/civic-app-toolkit.git
+cd civic-app-toolkit/
+npm run storybook
+ls
+cd frontend/
+ls
+npm i
+npm run storybook
+ls
+just storybook
+npm install -D @storybook/addon-themes
+just storybook
+hx
+jj
+jj desc
+jj
+jj b s main -r m
+jj git push -b main --remote origin
+zellij
+cd ..
+ls
+yz
+ls
+cd opi-component-library-wc
+ls
+jj
+cd opi-component-library-wc
+jj
+hx
+jj
+zellij
+git clone git@github.com:balt-opi/balt-design-kit.git
+jj
+cd balt-design-kit/
+ls
+cd frontend/
+ls
+hx package.json
+npm i
+cd ..
+ls
+cd opi-component-library-react/
+ls
+hx
+ls
+cd frontent
+cd frontend
+ls
+cd frontend/
+npm run build:kit
+hx
+lx
+ls
+ls -a
+ls
+cd ..
+ls
+hx
+cd ..
+git status
+git add .
+git commit
+jj
+git log
+git config --global user.email "xanderjake.delossantos@baltimorecity.gov"
+git commit --amend -h
+git log
+git commit --amend --author="Xander Jake de los Santos <xanderjake.delossantos@baltimorecity.gov>" --no-edit
+git log
+git status
+git pull
+git push main origin
+git push origin main
+ls
+hx .github/workflows/publish-ui-lib.yml
+git commit --amend
+git log
+git push origin main -f
+hx .github/workflows/publish-ui-lib.yml
+git diff
+git push origin main -f
+git diff
+git status
+git add .
+git commit --amend
+git status
+git push origin main -f
+cd ..
+ls
+cd opi-component-lib-usage-test/
+ls
+npm install @balt-opi/balt-design-kit@0.1.0
+hx
+npm install @balt-opi/balt-design-kit@0.1.0
+cat package.json
+package uninstall elenajs-wc
+npm uninstall elenajs-wc
+cat package.json
+npm uninstall @balt-opi/ui-components
+cat package.json
+npm install @balt-opi/balt-design-kit@0.1.0
+ls
+cat package.json
+hx
+npm run
+npm run dev
+hx .github/workflows/publish-ui-lib.yml
+ls
+cd frontend/
+hx
+npm run dev
+npm run storybook
+hx .storybook/preview.tsx
+hx .github/workflows/ci.yml
+cd ..
+ls
+mv notes notes_
+ls
+jj git clone git@github.com:xanderjakeq/opi_notes.git notes
+cd notes
+ls
+jj
+ls -a
+yz
+ls
+jj desc
+jj
+jj b s main -r p
+jj git push -b main --remote origin
+jj
+zellij
+cd ..
+jj git clone git@github.com:balt-opi/code-enforcement-app.git
+cd code-enforcement-app/
+poetry
+uv install
+uv pip install
+ls
+uv pip install pyproject.toml
+uv pip install -r pyproject.toml
+uv venv
+overlay use .venv/bin/activate.nu 
+uv pip install -r pyproject.toml
+deactivate
+overlay
+overlay list
+ls
+ls -a
+overlay use .venv/bin/activate.nu 
+uv pip install -r pyproject
+uv pip install -r pyproject.toml
+uv -h
+ls
+cat pyproject.toml
+deactivate
+uv sync
+overlay use .venv/bin/activate.nu 
+ls
+uv pip install -r pyproject.toml
+deactivate
+sudo apt update
+sudo apt install pipx
+pipx ensurepath
+git status
+rm -rf uv.lock
+git status
+git checkout main
+git status
+pipx install poetry
+poetry install
+npm install
+task dev -- 5178 8000
+apt install task
+sudo apt install task
+cd ..
+curl -1sLf 'https://dl.cloudsmith.io/public/task/task/setup.deb.sh' | sudo -E bash
+mise use -g aqua:go-task/task@latest
+cargo install mise
+go
+go install go install github.com/go-task/task/v3/cmd/task@latest
+go install github.com/go-task/task/v3/cmd/task@latest
+ls
+cd code-enforcement-app/
+ls
+task dev -- 5178 8000
+hx
+cd backend
+task dev -- 5178 8000
+poetry run python backend/manage.py migrate
+poetry run python backend/manage.py seed_field_ops_users --reset-cases
+hx --health python
+mise install pyrefly
+uvx pyrefly init
+uvx pyrefly check --summarize-errors
+hx --health python
+pipx install pyrefly
+hx --health python
+hx
+poetry run python manage.py shell
+python run manage.py shell
+poetry shell
+poetry env activate
+overlay use .venv/bin/activate.nu 
+python manage.py shell
+ls
+cd backend
+yz
+task dev -- 5178 8000
+python manage.py shell
+sqlite3 ../db.sqlite3
+cargo install rainfrog --locked
+rainfrog
+rainfrog -h
+pwd
+rainfrog -u sqlite:///home/xanderjakeq/dev/code-enforcement-app/db.sqlite3
+hx
+yz
+cd ..
+cd balt-design-kit/
+ls
+cd frontend/
+cd ..
+ls
+cd opi-component-lib-wc
+ls
+cd opi-component-library-wc/
+cd ..
+ls
+cd ..
+ls
+cd opi-component-library-wc/
+ls
+hx
+jj
+jj desc
+jj
+jj diff
+hx
+jj diff
+jj status
+jj
+jj new -A m
+jj
+jj edit z
+jj squash
+jj
+jj undo
+jj
+jj squash -h
+jj squash -i
+jj
+jj edit l
+jj
+jj desc
+jj
+jj edit z
+jj
+jj b s main -r l
+jj git push  i
+jj git push -b main --remote origin
+ls
+zellij
+jj git pull
+jj git -h
+jj git fetch --remote origin -b main
+hx
+nvim
+task dev -- 5178 8000
+l
+ls
+cd backend
+nvim
+cd frontend/
+ls
+cd ~
+ls
+cd .dotfiles/nvim/.config/nvim/
+ls
+nvim
+cd -
+cd dev/code-enforcement-app/
+nvim
+nvim
+yz
+lsof -i :5178
+cd dev/code-enforcement-app/
+task dev -- 5178 8000
+lsof -i :8000
+kill 295076
+jj init -h
+jj -h
+jj
+git status
+git diff
+jj
+jj desc
+jj
+jj desc
+jj config set ui.editor "nvim"
+jj config set --user ui.editor "nvim"
+jj desc
+jj
+jj abandon l
+jj
+jj git fetch --remote origin -b main
+jj
+nvim
+jj git remote -h
+jj git remote list
+jj git fetch --remote origin -b main
+jj 
+jj log -r 'all()'
+nvim
+jj
+jj desc
+jj
+jj new
+jj
+task dev -- 5178 8000
+cd dev/code-enforcement-app/
+zelllij
+cd backend
+cd frontend
+yz
+task dev -- 5178 8000
+nvim
+exit
+ls
+nvim .env.example
+jj
+jj show
+nvim scripts/dev-env.mjs
+nvim scripts/dev.mjs
+jj
+task dev --
+jj
+jj edit m
+jj
+jj edit z
+jj edit m
+jj edit z
+jj edit m
+jj edit z
+jj edit m
+jj edit z
+jj edit m
+jj edit z
+jj
+jj desc
+jj
+jj b s main -r z
+jj git fetch --remote origin -b main
+jj
+jj log -r 'all()'
+jj
+jj b s main -r z
+jj b s main -r z --allow-backwards
+jj
+jj git push -b main --remote origin
+jj log -r 'all()'
+git status
+git checkout main
+git log
+jj undo
+jj
+jj rebase
+jj rebase -h
+jj
+jj rebase -s sz -o st
+jj
+jj b s case-create-form-simplify -r z
+jj
+jj b s main -r st
+jj b s main -r st --allow-backwards
+jj
+jj git push -b main --remote origin
+jj b s main -r sx
+jj b s main -r sx --allow-backwards
+jj
+jj log -r 'all()'
+jj
+jj log -r 'all()'
+jj rebase -s vw -o sx
+jj rebase -s vw -o sx --allow-immutable
+jj rebase -s vw -o sx --allowimmutable
+jj rebase -s vw -o sx --ignore-immutable
+jj
+jj log -r 'all()'
+jj rebase -s ryu -o stx --ignore-immutable
+jj
+jj new ryu
+jj resolve
+jj
+jj resolv
+jj resolve
+jj squash
+jj
+jj new rnz
+jj
+jj resolve
+jj squash
+jj
+jj new zuu
+jj resolve
+jj
+jj squash
+jj
+jj new wxx
+jj
+jj resolve
+jj
+jj squash
+jj
+jj edit wxx
+cd ..
+ls
+cd opi-component-lib-usage-test/
+cat .npmrc
+touch .npmrc
+nvim .npmrc
+nvim .gitignore
+jj
+ls
+jj
+jj new
+nvim .npmrc
+ls
+cd ..
+cd balt-design-kit/
+ls
+git pull
+git status
+git log
+jj
+git branch -a
+git log
+git status
+git 
+git status
+git pull
+git pull -h
+git pull origin main
+git config pull.rebase true
+git pull origin main
+git log
+task dev -- 5178 8000
+ls
+cd frontend/
+ls
+nvim package.json
+npm run build:kit
+nvim
+npm i
+task dev -- 5178 8000
+nvim
+npm install ../../balt-design-kit/frontend/
+jj 
+jj
+jj show -s
+jj show diff
+jj diff
+nvim
+npm i
+jj diff
+jj
+jj abandon stu
+jj
+jj new ul
+jj resolve
+jj
+jj squash
+jj
+jj new ppy
+jj resolve
+jj squash
+jj
+jj new zp
+jj resolve
+jj
+jj git fetch
+jj
+jj edit -b main
+jj edit -h
+jj b -h
+jj
+jj edit zxkq
+jj new zxkq
+jj
+ls
+nvim taskfile.yml
+task test
+jj
+jj git show
+jj show
+jj
+rm -rf .jj
+jj
+jj init
+jj
+jj git init
+jj bookmark track main --remote=origin
+jj
+jj show
+rm -rf .npmrc
+jj
+jj -h
+jj
+jj duplicate z
+jj
+nvim
+bob ls-remote
+bob install stable
+bob use stable
+nvim -v
+nvim
+sudo apt install luarocks
+cd ~
+ls
+cd .dotfiles/nvim/.config/nvim/
+nvim
+yz
+nvim
+yz
+nvim
+yz
+nvim
+jj
+git status
+git
+git status
+ls
+jj
+ls
+git status
+git branch -a
+jj git init
+jj
+jj update
+jj desc 
+jj
+jj rebase -s o -o w
+jj
+jj new o
+jj resolve
+nvim
+ls
+hx init.lua
+hx lazy-lock.json
+hx
+jj
+jj squash
+jj
+jj b s main -r k 
+jj
+jj b s main -r o
+jj b s main -r o --allow-backwards
+jj
+jj git push -b main --remote origin
+jj bookmark track main --remote=origin
+jj git push -b main --remote origin
+jj git remote -h
+jj git remote set-url origin
+jj git remote set-url -h
+jj git remote set-url origin git@github.com:xanderjakeq/nvim.git
+jj git push -b main --remote origin
+cd ~
+ls
+cd note
+cd notes/$
+cd notes/
+ls
+nvim
+cd ~
+cd .dotfiles/nvim/.config/nvim/
+hx
+jj 
+jj squash
+jj squash --ignore-immutable
+jj git push -b main --remote origin
+cd ~/notes/
+nvim
+nvim
+exit
+nvim
+nvim 
+hx
+nvim
+nvim .ignore
+nvim
+ls -a
+nvim
+yz
+nvim
+jj
+jj new z
+jj
+jj abandon u
+jj undo
+jj
+jj edit u
+jj
+jj show
+jj show -s
+jj
+jj abandon k
+jj
+jj edit z
+jj new
+jj
+jj new -A z
+jj
+jj edit u
+jj squash -i
+jj
+jj edit q
+jj
+jj edit u
+jj show
+jj undo
+jj
+jj undo
+jj
+jj show
+jj 
+jj squash
+jj
+jj edit q
+jj
+jj desc
+jj
+jj new
+jj
+jj edit q
+jj
+jj b s simplify-dispatch-view -r q
+jj
+jj git push -b simplify-dispatch-view --remote origin
+jj
+jj edit m
+jj
+jj new m
+jj
+jj edit q
+jj
+zellij
+cd ..
+ls
+jj git clone git@github.com:balt-opi/orf_app.git
+cd orf_app/
+cd backend
+poetry env activate
+over use /home/xanderjakeq/.cache/pypoetry/virtualenvs/orf-portal-ML8oyVo1-py3.12/bin/activate.nu
+overlay use /home/xanderjakeq/.cache/pypoetry/virtualenvs/orf-portal-ML8oyVo1-py3.12/bin/activate.nu
+poetry install
+cd frontend
+npm ci
+cd ..
+task run
+task run -- 5173 8000
+yz
+yz
+nvim
+cd frontend/
+nvim
+npm run build
+ls
+docker -h
+sudo apt-get -y install podman
+cd ..
+nvim Taskfile.yaml
+task
+podman run -d --name orf_db -p 5432:5432 -e POSTGRES_PASSWORD=orf_password
+podman pull postgres:latest
+podman pull docker.io/library/postgres:latest
+podman run -d postgres --name orf_db -p 5432:5432 -e POSTGRES_PASSWORD=orf_password
+podman ps
+poetry run python src/manage.py migrate
+nvim
+yz
+podman run -d --name orf_db -p 5432:5432 -e POSTGRES_PASSWORD=orf_password postgres
+podman ps
+poetry run python src/manage.py migrate
+psql
+sudo apt install psql
+sudo apt install -y postgresql postgresql-client
+psql -u postgres -h localhost 
+psql --help
+psql -U postgres -w -h localhost -p 5432
+psql -U postgres -W orf_password -h localhost -p 5432
+psql -U postgres -W -h localhost -p 5432
+poetry run python src/manage.py migrate
+task run -- 5173 8000
+cd ..
+task run -- 5173 8000
+nvim
+task run
+task django:bootstrap-local-demo
+cd backend
+task django:bootstrap-local-demo
+task backend:check
+cd ..
+task backend:check
+python
+python -m poetry
+python pip install poetry
+pip install poetry
+task backend:check
+cd backend
+poetry run python src/manage.py migrate
+cd ..
+cd backend
+overlay use /home/xanderjakeq/.cache/pypoetry/virtualenvs/orf-portal-ML8oyVo1-py3.12/bin/activate.nu
+ls
+nvim
+python src/manage.py createsuperuser
+task django:bootstrap-local-demo
+task django:seed-reference-data
+nvim
+ls
+cd frontend
+cd backend
+nvim
+cd ..
+nvim
+cd backend
+cd ..
+jj diff
+jj
+jj new w
+jj
+jj edit t
+jj
+jj desc
+jj
+jj b s improve-admin-console-navigation -r t
+jj
+jj git push -b improve-admin-console-navigation --remote origin
+ls
+cd ..
+ls
+cd code-enforcement-app/
+jj git fetch
+jj
+jj git fetch -h
+jj git fetch --remote origin
+jj
+jj b -h
+jj b l
+jj git remote list
+jj 
+jj git fetch --remote origin -b fix_9
+jj 
+jj b -h
+jj git fetch --branch fix_9
+jj edit -b fix_9
+jj edit -- -b fix_9
+jj edit fix_9
+jj log -r 'all()'
+jj new nlm
+jj
+exit
+zellij
+cd ..
+ls
+cd code-enforcement-app/
+task run
+nvim
+ls
+cd frontend
+ls
+jj
+jj log -r 'all()'
+jj desc ww
+jj desc ww --ignote-immutable
+jj desc --ignore-immutable ww
+jj
+jj 
+jj log -r 'all()'
+jj b l
+jj
+jj b t fix_9@origin
+jj b t fix_10@origin
+jj b t fix_11@origi
+jj b t fix_11@origin
+jj
+jj b s fix_9 -r 19
+jj b s fix_9 -r 19 --allow-backwards
+jj
+jj git push -b fix_9 --remote origin
+jj
+jj fetch
+jj git fetch
+jj
+jj 
+jj -h
+jj
+jj abandon wwlytszp/1
+jj
+jj undo
+jj
+jj undo
+jj
+jj abandon -h
+jj
+jj abandon wwlytszp/1
+jj
+jj abandon n/0
+jj
+jj abandon r/0
+jj
+jj b s fix_10 -r r
+jj
+jj b s fix_11 -r n
+jj
+jj git push
+jj
+jj new ww
+jj
+nvim
+jj
+jj desc
+jj
+jj rebase -s r -o u
+jj
+jj new r
+jj
+jj resolve
+jj
+jj abandon wy
+jj
+jj squash
+jj
+jj undo
+jj
+jj squash
+jj
+jj b s fix_9 -r u
+jj
+jj git push
+jj
+jj edit t
+jj
+jj edit ww
+jj
+jj edit t
+jj
+jj edit u
+jj
+jj git push
+jj
+jj edit t
+jj show -s
+jj
+jj show
+jj
+jj squash
+jj
+jj git push -b fix_10 --remote origin
+jj
+jj git push -b fix_11 --remote origin
+jj
+jj edit n
+jj show -s
+jj
+jj edit new
+jj new
+jj
+jj edit n
+jj
+jj edit r
+jj
+jj edit y
+task dev -- 5178 8000
+jj
+jj squash
+jj
+jj show
+jj
+jj show
+task test
+jj
+jj show
+jj new -B
+jj new -B @
+jj
+jj show -s
+ls
+jj
+jj edit s
+jj show -s
+jj show
+jj
+jj squash -i
+jj
+jj desc y
+jj
+jj show
+jj
+jj b s fix_11 -r y
+jj
+jj git push -b fix_11 --remote origin
+jj
+jj new y
+jj
+yz
+jj
+cd backend
+ls
+nvim
+cd ..
+ls
+cd opi-component-library-wc/
+ls
+just storybook
+jj git fetch
+jj
+jj edit x
+jj
+jj new x
+jj
+just storybook
+nvim
+yz
+overlay use /home/xanderjakeq/.cache/pypoetry/virtualenvs/orf-portal-ML8oyVo1-py3.12/bin/activate.nu
+jj show
+jj
+jj show
+jj
+ezit
+exit
+zellij
+ls
+jj git fetch
+cd ..
+cd opi-component-library-wc/
+jj git fetch
+cd ..
+ls
+cd ticket-explorer/rust-backend/static/
+ls
+nvim
+cd ..
+ls
+cd ..
+ls
+cd ..
+s
+ls
+cd code-enforcement-app/
+ls
+lls
+ls
+task dev -- 5178 8000
+nvim
+cd backend
+cd ..
+jj
+jj show
+jj
+jj edit s
+jj show
+jj show -s
+jj show
+nvim
+cd backend
+exit
+lsof -i :8000
+kill 71893
+nvim
+cd .
+cd ..
+ls
+nvim
+ls
+cd backend
+task dev -- 5178 8000
+nvim
+overlay use .venv/bin/activate.nu 
+cd ..
+overlay use .venv/bin/activate.nu 
+cd backend
+ls
+nvim
+deactivate
+cd ..
+zellij
+cd ..
+ls
+cd opi-component-library-wc/
+jj
+jj git fetch
+jj git fetch main
+jj git fetch --branch main
+jj
+jj new sn
+jj
+jj
+nvim
+nvim
+cd ..
+ls
+cd ticket-explorer/rust-backend/static/
+ls
+just storybook
+jj desc
+jj
+jj b s main -r o
+jj git push
+jj show -s
+jj show
+jj show -s
+jj
+jj desc
+jj
+jj b s main -r r
+jj git push
+task dev -- 5178 8000
+jj
+jj show -s
+jj log -r 'all()'
+jj edit zt --ignore-immutable
+jj
+jj git push
+jj
+jj git push -b main --remote origin
+jj
+jj edit r
+jj
+jj new r
+ls
+nvim
+ls
+touch .ignore
+nvim .ignore
+jj
+jj desc
+jj
+jj b s main -r x
+jj git push
+nvim
+jj
+jj edit x --ignore-immutable
+jj
+jj edit uz
+jj
+jj desc
+jj
+jj git push
+ls
+jj
+jj git fetch
+jj
+jj rebase -s uz -o xr
+jj
+jj new
+jj resolve
+jj
+jj squash
+jj
+jj b s main -r uz
+jj
+jj git push
+jj
+jj show
+jj
+jj desc
+jj
+jj b s main -r w
+jj git push
+ls
+ls -a
+nvim .ignore
+jj
+jj file untrack .ignore
+nvim .gitignore
+jj
+jj file untrack .ignore
+jj
+jj show
+jj desc
+jj
+jj desc
+jj
+jj
+jj new
+jj
+jj desc
+jj
+jj git push
+jj
+jj b s main wp
+jj git push
+ls
+just storybook
+jj
+jj squash -i
+jj squash -i --ignore-immutable
+jj git push
+jsut storybook
+jj
+jj desc
+jj
+jj b s main o
+jj
+jj git push
+jj
+jj desc
+jj
+jj new ov
+jj squash -i --ignore-immutable
+jj
+jj edit p
+jj
+jj new
+jj 
+jj b s main p
+jj
+jj git push
+jj
+jj b s main pm
+jj
+jj git push
+jj
+jj log -r 'all()'
+jj
+jj b s main pml --allow-backwards
+jj
+jj undo
+jj
+jj undo
+jj
+jj edit p
+jj
+jj b s main p 
+jj
+jj git push
+jj
+nvim
+cat src/stories/assets/discord.svg
+jj
+jj desc
+jj
+jj git push
+jj
+jj b s main -r v
+jj git push
+jj
+ijj
+jj
+jj log -r 'all()'
+jj new wpp
+nvim
+jj squash --ignore-immutable
+jj
+jj new v
+jj
+jj git push
+just storybook
+zellij
+jj
+cd ..
+ls
+cd code-enforcement-app/
+task dev -- 5178 8000
+lsof -i :8000
+kill 77159
+jj
+zellij
+jj
+cd ..
+cd opi-component-library-wc/
+ls
+jj
+jj git fetch
+jj
+jj new ms
+jj
+just storybook
+nvim
+cd ..
+ls
+cd ticket-explorer/rust-backend/static/
+ls
+nvim
+cd -
+cd opi-component-library-wc/
+jj
+jj 
+jj
+jj new -B @
+jj
+jj edit k
+jj
+jj squash -i
+jj
+jj desc y
+jj
+jj new -B @ noedit
+jj new -B @
+jj
+jj edit k
+jj
+jj squash -i
+jj
+jj desc yyl
+jj
+jj desc k
+jj
+jj b s main -r k
+jj git push
+just build
+just
+just build
+jj
+sudo apt install mmv
+just build
+npx storybook build
+jj
+jj log -r 'all()'
+jj rebase -s @ -o yyp --ignore-immutable
+jj
+jj desc
+jj
+jj desc
+jj
+jj log -r 'all()'
+jj
+jj rebase -s yyl -o ml
+jj rebase -s yyl -o ml --ignore-immutable
+jj
+jj b s main -r k
+jj git push -b main --remote origin
+jj log -r 'all()'
+jj
+jj undo
+jj
+jj undo
+jj
+jj undo
+jj
+jj show -s
+jj
+jj show
+jj squash --ignore-immutable
+jj
+jj edit k
+jj
+nvim
+jj git push -b main --remote origin
+jj
+jj b s main -r k
+jj git push -b main --remote origin
+jj git fetch
+jj
+jj abandon /1
+jj abandon k/1
+jj abandon k/1 --ignore-immutable
+jj
+jj abandon yyl/1 --ignore-immutable
+jj
+jj abandon yyp/1
+jj abandon yyp/1 --ignore-immutable
+jj
+jj git push -b main --remote origin
+jj b s main -r k
+jj git push -b main --remote origin
+npx storybook build
+jj
+jj squash --ignore-immutable
+jj git push -b main --remote origin
+jj
+jj desc
+jj
+jj abandon @
+jj
+jj log -r 'all()'
+jj edit ml
+jj
+jj edit k
+jj log -r 'all()'
+jj
+jj
+jj rebase -s yyl -o ml --ignore-immutable
+jj
+jj git push -b main --remote origin
+jj undo
+jj
+jj edit k
+jj
+npx storybook build
+nvim
+jj
+jj edit y
+jj
+nvim
+yz
+jj
+jj edit ml
+jj
+jj show
+jj
+jj log -r 'all()'
+jj rebase -s ml -o yyp
+jj
+jj edit k
+npx storybook build
+jj git push -b main --remote origin
+jj git push -b main --remote origin -f
+jj git push -b main --remote origin
+jj git push -b main --remote origin --ignore-immutable
+jj
+jj git fetch
+jj
+jj abandon k/1 --ignore-immutable
+jj 
+jj abandon yyl/
+jj abandon yyl/1 --ignore-immutable
+jj
+jj abandon ml/1 --ignore-immutable
+jj
+jj git push -b main --remote origin
+jj 
+jj b s main -r k
+jj git push -b main --remote origin
+nvim
+zellij
+cd ..
+ls
+cd code-enforcement-app/
+task dev -- 5178 8000
+lsof -i :8000
+kill 252167
+ls
+ls
+jj
+jj show
+jj
+ls
+sqlite3 ../db.sqlite3
+.tables
+sqlite3 ../db.sqlite3
+ls
+cd backend/
+ls
+yz
+cd ..
+jj show -r rw
+ls
+jj
+jj new y
+jj desc
+nvim
+cd frontend
+ls
+task dev -- 5178 8000
+jj
+jj show
+jj
+jj edit y
+jj
+jj edit zk
+jj
+jj edit y
+cd ..
+ls
+cd opi-component-lib-usage-test/
+ls
+nvim index.html
+ls
+yz
+cd vanilla-html/
+ln -s ../../opi-component-library-wc/dist/ ./bui
+ls
+sqlite3 ./db.sqlite3
+miniserve
+cd ..
+ls
+cd opi-component-lib-usage-test/
+ls
+cd vanilla-html/
+cd ..
+ls
+cd opi-component-library-wc/
+just build
+nvim
+just build
+nvim
+just build
+jj
+jj edit zk
+jj edit y
+jj edit zk
+jj
+cd ..
+ls
+cd opi-component-library-wc/
+miniserve
+ngrok
+nvim
+ls
+cd ..
+ls
+cd artscape-shop/
+ls
+cd ..
+yz
+cd artscape-shopify/qrcode_generator/
+nvim
+cargo run
+nvim
+just builg
+just build
+nvim
+just build
+ngrok http 5178
+exit
+ngrok http 8080
+exit
+exit
+task dev -- 5178 8000
+nvim
+jj fetch
+jj git fetch
+jj
+task dev -- 5178 8000
+cd ..
+ls
+cd opi-component-library-wc/
+ngrok http 6006
+just storybook
+jj
+jj new pn
+ngrok -h
+ngrok update
+sudo -s
+ngrok http 6006
+ngrok http 6006 --host-header="localhost:6006"
+cd ..
+ls
+cd code-enforcement-app/
+ls
+cd backend
+nvimm
+nvim
+overlay use .venv/bin/activate.nu 
+cd ..
+overlay use .venv/bin/activate.nu 
+cd backend
+nvim
+ls
+jj
+npx @liam-hq/cli init
+nvim
+yz
+task
+task test
+nvim
+npm run test:smoke
+playwright -h
+npx playwright test
+nvim
+npm run test:smoke
+cd ..
+overlay use .venv/bin/activate.nu 
+cd frontend
+npm run test:smoke
+npm run test:smoke --refresh-boundaries
+poetry -h
+ls
+npx playwright test
+cd .
+cd ..
+npx playwright test
+jj
+jj log -r 'all()'
+jj new m
+npx playwright test
+nvim
+ls
+jj
+jj new zk
+jj
+jj show s
+jj
+jj show rw
+ls
+jj
+jj workspace -h
+jj workspace add ../code-enforcement-app-2
+deactivate
+cd ../code-enforcement-app-2/
+jj
+ls -a
+cat fly.production.toml
+jj
+ls
+cat AGENTS.md
+jj
+uv venv
+overlay use .venv/bin/activate.nu 
+ls
+ls test-results/
+cat test-results/frontend-tests-smoke-contr-1149c-parse-with-frontend-schemas/
+cat test-results/frontend-tests-smoke-contr-1149c-parse-with-frontend-schemas/error-context.md
+jj
+ls
+ls docs
+cat docs/field_ops_issue_ledger.md
+ls
+ls figma
+ls figma/code_connect.md
+cat figma/code_connect.md
+ls
+cat Dockerfile
+ls
+ls app_config/auth.json
+cat app_config/auth.json
+cd /mnt/c/Users/XanderJake.DeLosSant/AppData/Roaming/
+ls
+cd ..
+ls
+cd ~
+ls
+cd .dotfiles/zellij/.config/zellij/
+ls
+nvim
+cd ..
+config nu
+exit
+yz
+ls
+cat package.json
+jj
+exit
+nvim
+cd ..
+ls
+exit
+jj
+zellij
+cd ..
+cd code-enforcement-app-2/
+ls
+jj
+jj b s refactor -r l
+jj
+jj desc
+jj
+nvim
+ls
+cd ..
+ls
+cd code-enforcement-ap
+cd code-enforcement-app
+ls
+jj
+ls
+django-admin -h
+ls
+mkdir backend
+ls
+yz
+ls
+mkdir backend
+cd backend
+uv venv
+overlay use .venv/bin/activate.nu 
+ls
+pip install Django==6.0.6
+python -m pip install Django==6.0.6
+uv -h
+exit
+ls
+cd backend
+ls
+ls -a
+uv init
+ls
+cat main.py
+cd ..
+rm -rf backend/
+mkdir backend
+cd backend
+uv venv
+overlay use .venv/bin/activate.nu 
+uv -h
+uv pip install Django==6.0.6
+python -m django --version
+python django --version
+python -m django --version
+uv -h
+uv run django --version
+django-admin startproject code-enforcement .
+django-admin startproject code_enforcement .
+ls
+cd code_enforcement/
+ls
+cd ..
+ls
+python manage.py shell
+ls
+nvim
+just setup
+jj
+nvim
+just
+nvim
+just
+nvim
+just
+jj
+ls
+jsut
+just
+just run-server
+just setup
+just
+just setup
+uv venv -h
+just setup
+ls
+ls -a
+just setup
+s
+ls
+just setup
+ls .env
+ls
+ls -a
+ls .venv
+/bin/sh
+/bin/bash
+just setup
+rm -rf .venv
+just setup
+ls
+just setup
+jj
+ls
+uv init
+jj
+ls
+cat pyproject.toml
+ls
+uv add Django
+ls
+uv djangorestframework
+uv add djangorestframework
+yz
+uv -h
+uv sync
+uv add drf-spectacular
+uv add whitenoise
+uv add duckdb
+uv add gunicorn
+uv add psycopg
+uv add pytest --dev
+uv add pytest-django --dev
+uv add pyrefly
+uv sync
+pyrefly init
+ls
+ls -a
+ls
+ls code_enforcement/
+uv add ruff --dev
+uv sync
+cd ..
+ls
+cd code-enforcement-app/
+task dev -- 5178 8000
+lsof -i :8000
+kill 361338
+kill 364338
+just setup
+overlay use .venv/bin/activate.nu 
+just run-server
+task dev -- 5178 8000
+just run
+deactivate
+just run
+bash
+overlay use .venv/bin/activate.nu 
+bash
+deactivate
+$env.VIRTUAL_ENV
+bash
+just run
+just check-virtual-env
+overlay use .venv/bin/activate.nu 
+just check-virtual-env
+exit
+just check-virtual-env
+overlay use .venv/bin/activate.nu 
+just check-virtual-env
+de
+deactivate
+just check-virtual-env
+just run
+overlay use .venv/bin/activate.nu 
+just run
+jj
+nvim
+deactivate
+jj
+ls -a
+cd ..
+ls
+jj
+ls
+jj
+just new-app api
+ls
+cd code-enforcement-app/
+ls
+ls code_enforcement/
+ls
+nvim
+yz
+jj
+cd ..
+cd bac
+cd backend/
+nvim
+cd backend/
+ls
+exit
+just 
+just setup
+just install-deps
+just run
+just
+ls
+jj
+jj git push -b refactor --remote origin
+jj
+jj git push -b refactor --remote origin
+jj b -h
+jj b rename refactor refactor/filestructure
+jj git push -b refactor/filestructure --remote origin
+just
+just migrate
+just run
+overlay use .venv/bin/activate.nu 
+just run
+deactivate
+overlay use .venv/bin/activate.nu 
+python manage.py -h
+python manage.py test
+python manage.py django test
+just test
+jj
+jj git fetch
+jj
+jj new
+jj
+jj undo
+jj
+jj new -B @
+jj
+jj edit l
+jj
+jj squash -i
+jj
+jj show
+ls
+jj
+jj edit l
+jj
+jj abandon zkz
+jj
+jj git fetch
+jj
+jj desc
+nvim
+yz
+nvim
+just test
+just test tests/
+just test .
+ls
+just test
+./manage.py test
+./manage.py test -h
+just test
+yz
+ls
+jj
+cd ..
+ls
+jj
+jj show
+jj show -s
+jj
+jj undo
+jj
+jj undo
+jj
+jj sho w-s
+jj show -s
+ls
+ls media
+ls staticfiles/
+ls backend/
+ls backend/apps/
+yz
+jj
+just run
+ls
+cd backend
+just run
+nvim
+just test
+pytest
+jj
+ls
+cd backend
+ls
+cd apps
+ls
+cd field_operations/
+ls
+just test
+just test api
+pytest
+pytest api
+just test api
+pytest api
+pytest
+ls
+pytest api
+pytest
+pytest -h
+pytest
+pytest .
+pytest api
+pytest
+pytest api/tests.py
+pytest
+python -m pytest
+pytest
+nvim
+jj
+yz
+ls
+cd ..
+ls
+cd xanderjakeq/
+ls
+cd dev
+ls
+cd code-enforcement-app-2/
+zellij
+yz
+mkdir backend
+jj
+ls
+cd backend
+uv venv
+ls
+overlay use .venv/bin/activate.nu 
+ls
+yz
+ls
+uv sync
+cat pyproject.toml
+ls
+nvim
+ls
+django-admin startproject code_enforcement .
+ls
+just
+just new-app api
+ls
+cd backend
+just run
+overlay use .venv/bin/activate.nu 
+just run
+nvim
+ls
+pytest
+nvim
+pytest
+jj
+jj git push -b refactor/filestructure --remote origin
+jj
+jj git fetch
+deactivate
+ls
+jj
+jj git fetch --branch v2
+jj
+jj edit -- -b v2
+jj edit --help
+jj b l
+jj git fetch --branch v2
+jj
+jj b l
+jj b t v2@origin
+jj b t v2 --remote=origin
+jj git fetch
+jj
+jj new p
+jj
+overlay use .venv/bin/activate.nu 
+jj
+just
+just install-deps
+nvim
+just i django-extensions --dev
+just i pydotplus --dev
+yz
+ls
+yz
+ls
+just erd
+just
+just erd
+just erd api
+ls
+mkdir docs/erd/
+ls
+ls docs/erd/
+ls
+ls docs/erd
+just erd api
+sudo apt install graphviz
+just erd api
+jj
+jj show -s
+jj
+jj desc
+jj
+jj b s v2 -r ms
+jj
+jj git push -b v2 --remote origin
+ls
+just erd api
+python
+just erd api
+python
+just erd api
+python
+fg
+python
+just erd api
+just migrate
+cd .
+cd ..
+lcd
+ls
+cd code-enforcement-app/
+ls
+cd backend
+just erd api
+deactivate
+just migrate
+just
+just setup
+geni
+nvim
+cd ~/.dotfiles/
+sl
+ls
+cd nvim/.config/nvim/
+nvim
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd .dotfiles
+ls
+stow helix
+ls
+yz
+jj
+ls
+jj
+jj new p
+jj
+jj new ms
+jj
+jj desc
+ls
+nvim
+jj
+jj desc
+jj
+jj new ms
+jj
+nvim
+jj
+jj desc
+jj
+jj rebase -s yr -o k
+jj
+jj undo
+jjj
+jj
+jj rebase -s yr -o k
+jj
+jj undo
+jj
+nvim
+jj
+jj rebase -s k -o yr
+jj
+jj abandon k
+j
+jj
+jj abandon yr
+jj
+jj new -B @
+jj
+jj new -B ms
+jj
+jj edit ms
+jj
+jj squash -i
+jj
+jj desc oq
+jj
+jj desc
+jj
+jj rebase -s oq -o ms
+jj
+jj rebase -s ms -o p
+jj
+jj show
+jj show -s
+jj show
+jj
+jj undo
+jj
+jj desc p
+jj show -r p -s
+jj show -r p
+jj
+jj edit p
+jj
+jj show
+jj
+jj desc
+jj
+jj edit ms
+jj
+jj desc
+jj show -s
+jj show
+jj
+jj desc
+jj
+jj git push -b v2 --remote origin
+ls
+jj
+ls
+ls code_enforcement/
+ls -a code_enforcement/
+ls
+nvim
+ls
+jj
+jj new
+ls
+yz
+jj
+overlay use .venv/bin/activate.nu 
+just run
+nvim
+nvim
+jj
+jj squash
+jj
+jj squash --ignore-immutable
+jj
+jj git push -b v2 --remote origin
+jj
+nvim
+just erd api
+just migrate
+python manage.py -h
+python manage.py migrate -h
+just
+just manage flush --no-input
+just migrate
+just erd api
+just test
+just test test_max_choice_len_support_all_variants
+just test
+just watch
+just erd api
+jj
+jj desc
+jj
+jj b s v2 -r yq
+jj git push -b v2 --remote origin
+ls
+jj
+just erd api
+cd ..
+ls
+cd ..
+ls
+code-enforcement-app/
+ls
+jj
+jj new
+jj
+ls
+cd..
+ls
+cd ..
+ld
+cd dev
+ls
+mkdir misc
+ls
+cd misc
+ls
+mkdir git-demo
+cd git-demo/
+git --version
+git init
+ls
+git status
+ls -a
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd notes
+ls
+task dev -- 5178 8000
+ngrok http 5178
+ngrok http 8000
+nvim
+ls
+cd ..
+ls
+cd frontend/
+task dev -- 5178 8000
+ngrok http 5178
+exit
+jj log -r 'all()'
+overlay use .venv/bin/activate.nu 
+jj
+git log
+cd ..
+ls
+git log
+cd backend
+ls
+nvim
+git status
+git log
+cd ..
+ls
+cd backend
+ls
+just erd api
+jj
+jj edit yq
+just erd api
+jj
+jj edit q
+jj
+jj show
+jj
+just erd api
+jj
+just erd api
+jj
+jj desc
+jj 
+jj b s v2 -r q
+jj
+jj git push -b v2 --remote origin
+deactivate
+ls
+exit
+ls
+deactivate
+ls
+exit
+nvim
+exit
+nvim
+exit
+ls
+cd dev
+ls
+mkdir test-collab
+cd test-collab/
+ls
+jj git init --colocate
+ls
+nvim
+cd ..
+zellij
+cd ..
+ls
+cd code-enforcement-app-2/
+ls
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+just run
+exit
+deactivate
+deactivate
+cd backend
+ls
+cd backend
+overlay use .venv/bin/activate.nu 
+cd ..
+ls -a
+rm -rf .venv
+ls
+jj
+ls
+ls -a
+overlay use .venv/bin/activate.nu 
+jj
+cd backend
+overlay use .venv/bin/activate.nu 
+jj
+jj new
+jj
+jj
+cd backend
+ls
+overlay use .venv/bin/activate.nu 
+just run
+cd ..
+cd code-enforcement-app
+ls
+ls -a
+cd .
+cd ..
+cd code-enforcement-app
+just erd api
+zellij
+exit
+cd backend
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+just run
+cd ..
+cd code-enforcement-app
+task dev -- 5178 8000
+lsof -i :8000
+kill 444118
+cd ..
+nvim
+cd backend
+deactivate
+ove
+overlay use .venv/bin/activate.nu 
+just erd api
+jj
+jj desc
+just erd api
+jj
+jj new
+just erd api
+jj
+jj desc
+jj
+jj b s v2 -r xk
+jj
+jj git push -b v2 --remote origin
+sudo apt update
+sudo apt install r-base
+sudo apt install r-base-dev
+R --version
+cd ..
+cd dev
+ls
+jj git clone git@github.com:city-of-baltimore/cob-performance.git
+cd cob-performance/
+nvim
+R
+R --help
+Rscript app.R
+R install shiny
+R INSTALL shiny
+R
+shiny
+R -e "shiny::runApp('./app.R')"
+R
+nvim
+R app.R
+Rscript app.R
+R -e "shiny::runApp('./app.R')"
+Rscript -e "install.packages('shiny')"
+Rscript app.R
+Rscript -e "shiny::runApp('./app.R')"
+ls
+R
+Rscript app.R
+R -h
+R INSTALL shiny
+R
+echo ~
+cd ~
+cd ..
+cd xanderjakeq/
+fly
+curl -L https://fly.io/install.sh | sh
+fly
+fly auth
+fly login
+fly auth login
+ls
+cd dev
+ls
+cd cob-performance/
+jj
+jj git fetch
+jj git -h
+jj edit -b fix/containerized@origin
+jj edit -- -b fix/containerized@origin
+jj edit fix/containerized@origin
+jj edit fix/containerize@origin
+jj
+jj new -h
+jj edit fix/containerize@origin
+jj new b fix/containerize@origin
+jj
+jj log -r 'all()'
+nvim
+zellij
+cd ..
+cd backend
+overlay use .venv/bin/activate.nu 
+deactivate
+task dev -- 5178 8000
+ls
+cd ..
+ls
+cd ..
+ls
+cd code-enforcement-app
+task dev -- 5178 8000
+lsof -i :8000
+kill 447041
+jj
+jj new
+jj
+jj desc
+jj
+overlay use .venv/bin/activate.nu 
+just watch
+just migrate
+just manage migrate -h
+just migrate
+jj
+jj desc
+jj
+jj b s v2 -r t
+jj git push -b v2 --remote origin
+jj
+jj git push -b v2 --remote origin
+jj
+jj new -B @
+jj
+jj edit t
+jj
+jj squash -i
+jj
+jj  desc mo
+jj git push -b v2 --remote origin
+cd ..
+cd dev
+ls
+jj git clone git@github.com:city-of-baltimore/opi-wiki.git
+ls
+cd opi-wiki/
+ls
+cd ..
+cd notes
+ls
+git status
+git add .
+git commit -m "update <\n>whatever is in here xD"
+git log
+exit
+cd ..
+cd dev
+ls
+jj git clone git@github.com:xanderjakeq/knowtes.git
+jj
+ls
+cd knowtes/
+jj
+jj edit u
+jj edit u --ignore-immutable
+jj show
+nvim
+jj
+jj sho w-s
+jj show -s
+jj
+jj log -r 'all()'
+jj edit tu
+jj edit tu --ignore-immutable
+jj show -s
+jj
+jj edit u
+jj
+jj new u
+jj
+nvim
+jj
+jj b s hugo -r q
+jj
+jj git push -b hugo --remote origin
+jj desc
+jj
+jj git push -b hugo --remote origin
+nvim
+jj
+jj squash
+jj squash --ignore-immutable
+jj
+jj git push -b hugo --remote origin
+nvim
+jj
+nvim
+jj squash --ignore-immutable
+jj desc
+jj
+jj edit q
+jj
+jj desc
+jj git push -b hugo --remote origin
+nvim
+jj
+jj squash --ignore-immutable
+jj git push -b hugo --remote origin
+nvim
+jj squash --ignore-immutable
+jj git push -b hugo --remote origin
+nvim
+jj squash --ignore-immutable
+jj git push -b hugo --remote origin
+nvim
+jj
+cd ..
+rm -rf knowtes/
+wc -h
+wc
+wc --help
+nvim
+just watch
+tree
+tee
+sh tree
+sh
+find -print
+find
+find . -print
+find .
+sudo apt install tree
+tree
+nvim coding-standards.md
+nvim
+jj
+jj new
+overlay use .venv/bin/activate.nu 
+just run
+just watch
+just run
+just migrtae
+just migrate
+jj
+jj show -s
+just run
+just watch
+just i overrides
+just watch
+just sync
+just install-deps
+just watch
+just migrate
+jj show
+jj squash --ignore-immutable
+jj undo
+jj squash -i --ignore-immutable
+jj
+jj show -s
+nvim
+just test
+jj
+jj show -s
+jj 
+jj desc
+jj
+jj b s v2 -r zz
+jj git push -b v2 --remote origin
+jj desc
+jj git push -b v2 --remote origin
+jj
+jj new
+just test
+just watch
+jj
+jj show -s
+jj new -B @
+jj
+j
+jj
+jj edit ys
+jj squash -i
+jj
+jj new zz
+jj
+jj edit ys
+jj
+jj new zz
+jj
+jj edit ys
+jj
+jj edit u
+jj
+jj edit ys
+jj
+jj edit u
+jj
+jj show -s
+jj show
+jj 
+jj new -B @
+jj
+jj squash -i
+jj undo
+jj
+jj edit xo
+jj
+jj edit o
+jj
+jj edit u
+jj
+jj squash -i
+jj
+jj desc xo
+jj
+jj edit xo
+jj
+jj edit u
+jj
+jj abandon -h
+jj
+jj abandon wn
+jj
+jj abandon ys
+jj
+jj show 
+jj desc
+jj 
+jj b s v2 -r u
+jj git push -b v2 --remote origin
+jj
+jj git fetch
+jj
+jj new u
+jj
+jj edit u
+just install-deps
+just test
+just watch
+just test -vv
+just test
+just test -vv
+just test
+just erd
+just watch
+jj
+jj git push -b v2 --remote origin
+jj git remote set-url origin git@github.com:city-of-baltimore/code-enforcement-app.git
+jj git push -b v2 --remote origin
+jj git remote list
+jj git push -b v2 --remote origin
+jj
+jj git fetch
+jj
+jj new u
+jj
+ls
+nvim
+jj
+nvim
+jj
+jj b -h
+jj b c feature/add-coding-guidelines
+jj
+jj desc
+jj
+jj git push feature/add-coding-guidelines
+jj git push -b feature/add-coding-guidelines --remote origin
+jj
+just test
+just test
+just watch
+jj
+jj show
+jj
+jj desc 
+jj
+jj b s v2 -r @
+jj
+jj git push -b v2 --remote origin
+jj git push -b feature/add-coding-guidelines --remote origin
+jj git remote set-url origin git@github.com:xanderjakeq/opi-wiki.git
+jj
+jj b s main -r o
+jj git push -b main --remote origin
+cd ..
+ls
+mkdir festival-shopify
+cd festival-shopify/
+shopify theme pull --store=https://festival-merch-3.myshopify.com
+npm install -g @shopify/cli@latest
+jj
+ls
+ls -a
+jj git init --colocate
+jj git remote add origin git@github.com:city-of-baltimore/festival-merch-shopify.git
+jj
+jj b c main
+jj
+nvim
+shopify theme push -p
+shopify theme push -h
+nvim
+shopify theme push -h
+shopify theme push
+just push
+just pull
+just
+exit
+jj
+jj desc
+jj
+jj new
+jj 
+jj git push -b main --remote origin
+jj
+jj pull
+just pull
+jj
+cd ..
+mkdir foodtruck-finder
+cd foodtruck-finder/
+npm i
+npm init
+npm install @pnp/sp @pnp/graph --save
+nvim
+ls
+nvim
+yz
+node index.js
+node index.ts
+deno run index.ts
+bun
+curl -fsSL https://deno.land/install.sh | sh
+deno
+exit
+deno
+curl -fsSL https://deno.land/install.sh | sh
+/home/xanderjakeq/.deno/bin/deno
+deno run index.ts
+/home/xanderjakeq/.deno/bin/deno run index.ts
+exit
+nvim
+jj git init --colocate
+nvim
+cd ~/.dotfiles/nushell/.config/nushelll
+cd ~/.dotfiles/nushell/.config/nushell
+ls
+curl -fsSL https://deno.land/install.sh | sh
+nvim
+exit
+cd ..
+ls
+cd foodtruck-finder/
+ls
+deno run index.ts
+open config
+config nu
+ls ~
+ls -a ~
+ls -a ~/.deno/bin/
+config nu
+exit
+deno
+config nu
+exit
+deno
+yz
+config nu
+yz
+config nu
+ls ~
+config nu
+exit
+exit
+deno
+deno run index.ts
+cd ..
+cd foodtruck-finder/
+deno run index
+deno run index.ts
+yz
+ls
+deno init
+ls
+yz
+nvim
+ls
+yz
+nvim
+deno install npm:@pnp/sp npm:@pnp/graph
+nvim
+deno run sp.ts
+deno install npm:@pnp/core
+deno run sp.ts
+nvim
+deno run sp.ts
+nvim
+deno run sp.ts
+nvim
+deno run sp.ts
+nvim
+deno run sp.ts
+deno install npm:@pnp/sp/webs npm:@pnp/sp/lists npm:@pnp/sp/items
+exit
+cd ..
+cd festival-shopify/
+nvim
+cd ..
+ls
+cd code-enforcement-app
+ls
+cd ..
+cd code-enforcement-app-2/
+nvim
+nvim
+cd ..
+ls
+cd foodtruck-finder/
+deno add npm:msal
+just watch
+deno add npm:@pnp/nodejs
+just watch
+nvim
+tsc init
+tsc
+stc init -h
+tsc ini t-h
+tsc init -h
+tsgo init
+tsc init
+tsc init .
+exit
+just watch
+cd ..
+cd festival-shopify/
+ls
+nvim
+just run
+clear
+just watch
+just run
+just watch
+just run
+deno add npm:@pnp/azidjsclient
+just run
+deno add npm:@azure/identity
+just run
+nvim
+deno add npm:@pnp/graph
+just run
+yz
+ping balt-sql-fc:1433
+just run
+deno add npm:@azure/msal-node
+nvim
+just run
+deno -h
+deno i
+just run
+deno run --inspect sp.ts
+just run
+deno add npm:arktype
+just run
+deno run --inspect sp.ts
+just run
+deno run main.ts
+just run
+hx
+just run
+jj git remote add origin git@github.com:projectcollection/food-truck-finder.git
+jj 
+jj desc
+jj b c main
+jj
+jj git push -b main --remote origin
+ls
+cd dev
+ls
+cd foodtruck-finder/
+ls
+nvim
+just run
+exit
+just run
+cd ..
+mkdir honotest
+cd honotest/
+deno init --npm hono@latest
+ls
+cat main.ts
+just watch
+deno i
+just watch
+just run
+just watch
+cd ..
+cd opi-component-library-wc/
+nvim
+just watch
+jj
+jj desc
+jj
+jj b s main -r n
+jj git push -b main --remote origin
+zellij
+exid
+exit
+ls
+cd dev ls
+cd dev
+ls
+mkdir baltimore-design-system
+ls
+cd baltimore-design-system/
+ls
+jj
+ls
+jj git init --colocate
+l
+jj
+touch readme.md
+ls
+nvim
+git submodule add git@github.com:city-of-baltimore/bromo.git
+ls
+git submodule add https://github.com/city-of-baltimore/ui-components
+git submodule add git@github.com:city-of-baltimore/opi-wiki.git
+git submodule -h
+ls
+git submodule deinit -f ./opi-wiki/
+git rm -f ./opi-wiki/
+ls
+git submodule add git@github.com:city-of-baltimore/ui-components.git
+ls
+tree
+cd ..
+cd opi-component-library-wc/
+ls
+ls
+git submodule deinit -f ui-components/
+git rm -f ./ui-components/
+ls
+git submodule add git@github.com:city-of-baltimore/ui-components.git b-ui
+ls
+git submodule -h
+git submodule set-url b-ui/ git@github.com:city-of-baltimore/b-ui.git
+nvim
+jj
+git submodule update
+git submodule update b-ui
+ls
+ls -a
+nvim
+ls -a
+nvim
+nivm
+nvim
+ls
+nvim
+cd b-ui/
+nvim
+cd ..
+cd ..
+ls
+cd code-enforcement-app-2/
+ls
+just
+just setup
+nvim
+cd b-ui/
+npm i
+npm approve-scripts --allow-scripts-pending
+cd ..
+git submodule update -h
+just update
+git log
+git diff 
+git status
+git ./b-ui/
+git status
+git add ./b-ui/*
+git status
+git add b-ui
+git status
+cd b-ui/
+nvim
+jj
+jj show
+jj
+git status
+git show
+jj
+jj git remote list
+nvim
+cd ..
+cd baltimore-design-system/
+cd b-ui/
+ls
+jj
+git status
+nvim
+git restore package-lock.json
+git status
+cd ..
+git status
+cd ..
+git status
+jj
+jj abandon m
+jj
+jj show
+jj
+jj rebase -s @ -o q
+jj
+nvim
+jj resolve
+jj
+jj squash
+jj
+jj edit q
+jj
+nvim
+ls -a
+just update
+jj
+jj show
+jj
+jj show v
+q
+jj undo
+jj
+jj abandon v
+jj
+jj edit qw
+jj
+nvim
+exit
+git status
+just commit
+just
+jj
+jj desc
+jj
+just
+ls
+just
+jj
+sh
+jj
+jj b c main
+jj git push -b main --remote origin
+jj git remote add origin git@github.com:city-of-baltimore/design-system.git
+jj git push -b main --remote origin
+cd ..
+mkdir bmore-test
+rm -rf bmore-test/
+git clone git@github.com:city-of-baltimore/design-system.git ds-test
+cd ds-test/
+ls
+just setup
+ls
+just update
+jj
+jj edit w
+jj
+jj squash
+jj
+jj squash --ignore-immutable
+jj
+jj git push -b main --remote origin
+git pull origin main
+jj
+ls
+git pull origin mian
+git pull origin main
+git pull origin main --rebase
+jj
+git status
+git log
+ls
+cd b-ui/
+ls
+cd ..
+just setup
+git status
+git checkout main
+git status
+ls
+cd ..
+rm -rf ds-test/
+zellij
+cd ..
+ls
+cd code-enforcement-app-2/
+just watch
+ls
+zellij
+cd backend/
+just watch
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+nvim
+just watch
+just test
+jj
+just test
+pytest -m casesource
+jj
+just test
+just tset
+just test
+jj show
+jj show -s
+jj
+jj git push -b main --remote origin
+jj git push -b v2 --remote origin
+jj
+jj
+jj git fetch
+jj
+jj new main
+jj
+jj git fetch
+jj
+jj edit o
+jj
+jj edit o --ignore-immutable
+jj
+ls
+cd ..
+ls
+cd baltimore-design-system/
+jj
+jj desc
+jj
+jj b s main -r r
+jj
+jj git push -b main --remote origin
+cd ..
+ls
+cd opi-component-library-wc/
+nvim
+cd ..
+ls
+just test
+nvim
+just tset
+just test
+jj
+jj new o/1
+jj
+just test
+jj
+jj workspace add ../code-enforcement-app-view-reference
+cd ..
+cd code-enforcement-app-2/code-enforcement-app-view-reference/
+nvim
+jj
+jj abandon yy
+jj
+jj edit o/0
+jj
+nvim
+overlay use .venv/bin/activate.nu 
+just setup
+ls
+cd ..
+cd backend/
+overlay use .venv/bin/activate.nu 
+nvim
+ls
+pwd
+cd ..
+ls
+jj workspace -h
+jj workspace forget -h
+jj workspace forget ./code-enforcement-app-view-reference/
+jj workspace list
+jj workspace forget code-enforcement-app-view-reference/
+jj
+jj workspace list
+jj workspace forget code-enforcement-app-view-reference
+jj workspace list
+jj workspace add ../../code-enforcement-app-2-apiviewref
+jj
+cd ..
+cd code-enforcement-app-2-apiviewref/
+cd backend/
+deactivate
+overlay use .venv/bin/activate.nu 
+jj edit o/0
+jj
+just test
+nvim
+jj
+jj
+jj edit ww
+jj
+just test
+nvim
+jj
+just watch
+jj
+jj edit o/0
+just watch
+jj
+nvim
+exit
+cd code-enforcement-app-2-apiviewref/
+jj
+jj workspace update-stale
+jj
+jj edit o/0
+jj
+jj edit ww
+jj
+nvim
+jj
+jj edit o/0
+jj
+jj edit ww
+jj
+nvim
+jj
+just test
+just watch
+just test
+nvim
+jj workspace forget code-enforcement-app-2-apiviewref
+cd ..
+ls
+rm -rf code-enforcement-app-2-apiviewref/
+just test
+jj
+jj squash
+jj
+jj abandon o/0
+jj
+just test
+jj undo
+jj
+just test
+jj
+just test
+jj
+jj abandon o/0
+jj
+just test
+jj
+jj squash --ignore-immutable
+jj
+jj git push -b main --remote origin
+jj
+jj b s main -r o
+jj git push -b main --remote origin
+jj 
+jj desc o
+jj desc o --ignore-immutable
+jj
+jj edit o --ignore-immutable
+jj
+jj new -B @
+jj
+jj desc
+jj 
+jj edit o
+jj squash -i
+jj
+jj new -B @
+jj
+jj show -s
+jj desc
+jj
+jj edit op
+jj squash -i
+jj
+jj new -B @ noedit
+jj
+jj new -B @ -h
+jj new -B @ --no-edit
+jj squash -i
+jj
+jj desc sp
+jj
+jj show -s
+jj
+jj desc q
+jj
+jj show -s
+jj 
+jj desc
+just test
+just watch
+jj
+jj desc
+jj
+jj new
+just test
+pytest --pdb --lf
+ju}st test
+just test
+jj
+jj
+jj edit k
+jj show
+jj
+nvim
+jj
+jj edit op
+jj
+nvim
+just test
+overlay use .venv/bin/activate.nu 
+just test
+nvim
+jj
+jj edit qw
+just test
+jj
+jj squash
+jj
+jj edit k
+jj
+jj squash
+jj
+jj edit op
+jj
+jj desc
+jj
+jj git push -b main --remote origin
+ls
+clear
+jj
+jj git fetch
+jj
+jj log -r 'all()'
+jj edit opur --ignore-immutable
+jj
+jj
+just test
+jj git push -b main --remote origin
+deactivate
+deactivate
+nvim
+deactivate
+zellij
+cd ..
+ls
+cd baltimore-design-system/
+ls
+ls b-ui
+ls
+cd ..
+ls
+cd opi-component-library-wc/
+jj remote set-url origin git@github.com:city-of-baltimore/b-ui.git
+jj git remote set-url origin git@github.com:city-of-baltimore/b-ui.git
+jj git fetch
+jj
+jj show -s
+jj show
+jj
+jj abandon q
+jj
+jj new mq
+just
+just dev
+ls
+just
+just storybook
+cd ..
+ls
+cd ticket-explorer/rust-backend/
+ls
+nvim
+ls
+jj
+jj desc
+jj
+jj b c experimental-demo
+jj b s experimental-demo -r uk
+jj
+jj git push -b experimental-demo --remote origin
+jj git fetch
+jj
+jj new uk
+nvim
+exit
+nvim
+zellij
+cd ..
+ls
+code-enforcement-app-2/
+overlay use .venv/bin/activate.nu 
+zellij
+cd backend/
+ls
+nvim
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+just test
+just test run_slow='False'
+just test run_slow=False
+nvim
+jj git fetch
+nvim
+jj
+jj new mm
+just test run_slow='False'
+just test skip_slow=True
+just test
+just test skip_slow=False
+ls
+cd dev
+ls
+cd code-enforcement-app-2/
+nvim
+:q
+cd backend/
+ls
+nvim
+zellij
+cd backned
+cd backend
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+just test
+zellij
+exit
+cd code-enforcement-app-2/
+cd dev/code-enforcement-app-2/
+cd backend
+overlay use .venv/bin/activate.nu 
+overlay use .venv/bin/activate.nu 
+jj
+just watch
+just test skip_slow=False
+just test
+just watch
+just test skip_slow=False
+jj
+jj desc
+jj
+jj new
+just tev
+just test skip_slow=False
+jj
+jj desc
+jj
+jj b s main -r sz
+jj
+jj git push -b main --remote origin
+just watch
+jj
+jj desc
+jj
+jj b s main -r ny
+jj git push -b main --remote origin
+jj
+jj git fetch
+just test
+just migrate
+just test
+ls
+jj
+jj new yv
+jj
+just test
+just test skip_slow=False
+nvim
+ls
+jj
+just test skip_slow=False
+jj show
+jj
+jj squash
+jj squash --ignore-immutable
+jj
+jj git push -b main --remote origin
+jj
+jj git push -b main --remote origin
+just test skip_slow=False
+jj desc
+jj show
+jj
+jj new
+jj
+jj edit l
+jj
+jj new
+jj
+jj show
+jj
+jj show -s
+yz
+ls
+jj
+jj desc
+jj
+jj new
+just test
+jj
+jj new -B @ --no-edit
+jj
+jj squash
+jj undo
+jj squash -i
+jj
+jj desc wl
+jj
+jj edit wl
+jj
+jj edit k
+nvim
+just test
+just migrate
+jj show -s
+just migrate
+jj show
+jj show -s
+just test
+just test skip_slow=False
+jj
+just test skip_slow=False
+jj
+jj desc
+jj
+jj new -B @ --no-edit
+jj
+jj squash -i
+jj show 
+jj show -s
+jj show
+jj
+jj squash -i
+jj
+just test skip_slow=False
+jj edit x
+jj
+jj show -s
+jj desc
+jj
+jj squash -i
+jj
+just test skip_slow=False
+just test skip_slow=False
+jj
+jj edit k
+jj show -s
+jj new -B @ --no-edit
+jj
+jj squash -i
+jj
+jj desc kr
+jj
+jj show -s
+just test skip_slow=False
+just test
+just test skip_slow=False
+jj
+jj new -B @ --no-edit
+jj
+jj squash -i
+jj
+jj desc xw
+jj
+jj show -s
+jj 
+jj new -B @ --no-edit
+jj
+jj squash -i
+jj
+jj desc u
+jj
+ls
+jj
+jj show -s
+exit
+just test
+just migrate
+just test
+exit
+just 
+just migrate
+just test
+just migrate
+just test
+just test skip_slow=False
+jj
+jj new -B @ --no-edit
+jj
+jj squash -i
+jj
+jj desc xx
+jj
+jj show
+just test
+just migrate
+just test
+just test skip_slow=False
+jj show -s
+jj
+jj new -B @ --no-edit
+jj
+jj squash -i
+jj
+jj desc rr
+jj
+jj show -s
+jj
+jj show -s
+jj
+jj b s main -r rr
+jj
+jj git push -b main --remote origin
+jj
+jj show -s
+zellij
+ls
+cd ..
+ls
+cd baltimore-design-system/
+ls
+just setup
+nvm use --lts
+node update
+node -v
+node -h
+mise install node
+mise use node
+node -v
+which node
+mise node -v
+vite
+viteplus
+vp -h
+vp upgrade
+node -v
+vp -h
+vp i -h
+node -v
+node -h
+vp
+vp env lts
+vp env list
+vp env clean
+vp list
+vp env list
+vp env list -h
+vp env list remote
+vp env -h
+vp env list-remote
+vp env install v26.5.1
+vp env use v26.5.1
+node -v
+ls
+jj show -s
+ls
+cat mise.toml
+rm -r mise.toml
+ls
+jj
+jj show -s
+just setup
+jj show -s
+ls
+jj
+vp -h
+vp dlx @sugarcube-sh/cli init
+ls
+jj show -s
+jj
+jj abandon s
+jj
+ls node_modules/
+ls
+ls -a
+ls node_modules/
+rm -rf node_modules/
+ls
+cd shared
+ls
+vp dlx @sugarcube-sh/cli init
+sugarcube generate
+vp dlx @sugarcube-sh/cli generate
+vp dlx @sugarcube-sh/cli -h
+vp dlx @sugarcube-sh/cli init
+ls
+cat package-lock.json
+ls
+cat package.json
+sugarcube generate
+vp i
+sug
+sugarcube generate
+vp dlx sugarcube generate
+ls
+nvim
+just generate-css-tokens
+just update-tokens
+cd ..
+yz
+just
+just update
+cd b-ui/
+git status
+git checkout .
+git status
+cd ..
+ls
+just update
+just update-submodules
+git status
+ls
+git branch -a
+git checkout main
+git status
+just update-submodules
+ls
+ls shared
+just update-submodules
+git status
+git stash
+ls
+git status
+ls -a
+cd shared
+ls -a
+cd ..
+ls
+git stash -h
+git stash
+ls
+git status
+just update-submodules
+ls
+git statues
+git status
+git checkout main
+ls
+jj
+git status
+git add .gitignore
+ls
+git status
+git untrack shared/node_modules/
+git rm --cached shared/node_modules/
+git rm --cached shared/node_modules/ -r
+git status
+git add .gitignore
+git status
+git commit -m "add .gitignore"
+git status
+ls
+ls shared
+cd ..
+ls
+cd baltimore-design-system/
+ls
+just update-submodules
+git status
+git submodule update update --rebase
+git submodule update --rebase
+git status
+git stash pop
+git status
+just update-submodules
+git status
+git add justfile
+git commit
+jj
+git status
+cd shared
+vp dlx sugarcube init
+just
+just generate-css-tokens
+cd ..
+git status
+git add .
+git status
+git commit
+git status
+git push origin main
+git status
+just commit "add vite+ in tools list"
+git status
+just commit "add vite+ in tools list"
+git status
+git log
+git push origin main
+git log
+just generate-css-tokens
+cd bromo/
+ls
+cd docs
+ls
+cd ..
+ls
+cd frontend
+ls
+yz
+ls
+cd bromo/frontend/
+ls
+nvim
+cd ..
+ls
+jj
+jj show
+git status
+just generate-css-tokens
+jj
+jj show
+jj
+jj desc
+jj
+jj new
+jj
+jj edit w
+jj 
+jj new -B @ --no-edit
+jj squash -i
+jj
+jj abandon os
+jj
+jj new
+cd bromo/frontend/
+cd ~/.dotfiles/nvim/.config/nvim/
+ls
+nvim
+nvim
+git status
+git add .
+git commit -m "add color preview plugin"
+git status
+jj
+jj b s main -r z
+jj
+jj git remote list
+jj git push -b main --remote origin
+jj
+jj show -s
+jj
+jj desc
+jj
+jj new
+nvim
+hx
+cd ~/dev
+ls
+cd helix/
+git fetch origin tag 25.07.1
+git fetch tag 25.07.1
+git status
+git fetch
+git tags
+git tag
+git tag -l
+git tag
+git tags
+git tag -h
+git tag -l
+git fetch
+git fetch origin
+git tag -l
+git fetch --tags 
+git status
+git tag -l
+git checkout 25.07.1
+git remote fetch
+git fetch -h
+git fetch origin tag 25.07.1
+git fetch origin 25.07.1
+git switch 25.07.1
+git fetch origin 25.07.1
+git remote fetch
+git remote fetch origin
+git pull origin 25.07.1
+git pull origin tag 25.07.1
+git pull --tags
+git stash
+git stash pop
+ls
+git stash
+git pull --tags
+git checkout main
+git checkout master
+git pull
+git pull origin tag 25.07.1
+git pull --tags
+git tag -l
+git tags
+git tag -h
+git checkout tags/25.07.1
+git fetch tags
+ls
+git status
+git fetch --tags
+git tag
+git checkout 25.07.1
+git log
+git remote add source git@github.com:helix-editor/helix.git
+git remote add source 25.07.1
+git checkout
+git status
+git fetch origin tag 25.07.1
+git fetch source tag 25.07.1
+git checkout 25.07.1
+# Optimized<\n>cargo install \<\n>   --profile opt \<\n>   --config 'build.rustflags="-C target-cpu=native"' \<\n>   --path helix-term \<\n>   --locked<\n>
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+$env.HELIX_DISABLE_AUTO_GRAMMAR_BUILD=true
+$env.HELIX_DISABLE_AUTO_GRAMMAR_BUILD = true
+cargo install --profile opt --config 'build.rustflags="-C target-cpu=native"' --path helix-term --locked
+nvim
+cd ~/.dotfiles
+stow helix/
+cd ..
+yz
+hx
+cd ~/.dotfiles/
+git status
