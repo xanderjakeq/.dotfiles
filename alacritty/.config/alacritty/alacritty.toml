@@ -15,15 +15,15 @@ family = "PragmataPro Mono"
 style = "Regular"
 
 [font.bold]
-family = "PragmataPro Mono Bold"
+family = "PragmataPro Mono"
 style = "Bold"
 
 [font.italic]
-family = "PragmataPro Mono Italic"
+family = "PragmataPro Mono"
 style = "Italic"
 
 [font.bold_italic]
-family = "PragmataPro Mono Bold Italic"
+family = "PragmataPro Mono"
 style = "Bold Italic"
 
 [font]
