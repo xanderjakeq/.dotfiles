@@ -8,6 +8,9 @@ general.import = [
     # "./paper_light.toml",
 ]
 
+[window]
+startup_mode = "Fullscreen"
+
 [font.normal]
 # family = "Native" # good font, but := has weird alignment
 # family = "Essential PragmataPro"

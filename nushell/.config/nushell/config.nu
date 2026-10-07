@@ -29,17 +29,17 @@ $env.PROMPT_COMMAND = {
   $"\n~($first_letters | drop | str join '.')/($last)\n"
 }
 
-# $env.EDITOR = 'nvim'
-$env.EDITOR = 'hx'
+$env.EDITOR = 'nvim'
+# $env.EDITOR = 'hx'
 $env.KI_EDITOR_KEYBOARD = 'colemak'
 
 $env.HELIX_RUNTIME = '~/dev/helix/runtime'
 
 $env.LEDGER_FILE = ['~/writing/notes/.hledger.journal']
 
-$env.path ++= ["/usr/bin"]
+$env.path ++= ["/usr/bin", "/usr/local/bin", "/usr/local/lib"]
 $env.path ++= ["~/dev/ols"]
-$env.LD_LIBRARY_PATH = ["/usr/local/lib/"]
+$env.LD_LIBRARY_PATH = ["/usr/local/lib/", "/usr/local/lib"]
 
 #uv and other bin?
 $env.path ++= ["/home/xanderjakeq/.local/bin"]
@@ -101,6 +101,10 @@ $env.PKG_CONFIG_PATH = $"($env.VULKAN_SDK)/lib/pkgconfig/"
 
 $env.path ++= [$"($env.VULKAN_SDK)/bin"]
 
+$env.PYTHONBREAKPOINT = "pudb.set_trace"
+
+$env.SKIM_DEFAULT_COMMAND = "rg --files || find ."
+
 alias j = just
 alias yz = yazi
 alias fg = job unfreeze
@@ -123,7 +127,7 @@ alias lj = lazyjj
 #}
 
 
-# needed to load .env files: open .env | load-env
+# load environment vars from .env file: open -r .env | from toml | load-env
 def "from env" []: string -> record {
   lines
     | split column '#' # remove comments

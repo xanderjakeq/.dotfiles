@@ -5,6 +5,9 @@ args = ["--stdio"]
 [language-server.svelte-language-server]
 command = "svelte-language-server"
 
+[language-server.alpinejs-language-server]
+command = "alpinejs-language-server"
+
 [language-server.pyrefly]
 command = "pyrefly"
 args = [ "lsp" ]
@@ -90,6 +93,10 @@ name = "jsx"
 language-servers = [ "typescript-language-server", "tailwindcss-ls" ]
 
 [[language]]
+name = "html"
+language-servers = [ "alpinejs-language-server", "tailwindcss-ls", "superhtml" ]
+
+[[language]]
 name = "tsx"
 language-servers = [ "typescript-language-server", "tailwindcss-ls" ]
 
@@ -104,3 +111,5 @@ language-servers = [ "sqls" ]
 [[language]]
 name = "gleam"
 language-servers = [ "gleam-lsp" ]
+
+
