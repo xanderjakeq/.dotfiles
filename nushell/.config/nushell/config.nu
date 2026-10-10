@@ -81,6 +81,9 @@ $env.path ++= [$"($env.FLYCTL_INSTALL)/bin"]
 # whitebox
 $env.path ++= ["/home/xanderjakeq/dev/tools/whitebox/whitebox_v0.122.0"]
 
+# luarocks
+$env.path ++= ["/home/xanderjakeq/.luarocks/bin"]
+
 # superhtml
 $env.path ++= ["/usr/bin/superhtml"]
 

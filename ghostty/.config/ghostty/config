@@ -3,7 +3,7 @@ command = /home/xanderjakeq/.cargo/bin/nu
 window-decoration = none
 fullscreen = "true"
 
-font-family = "PragmataProMonoLiga Nerd Font"
+font-family = "PragmataPro Mono"
 font-size = 16
 # font-family = "Essential PragmataPro"
 # font-family = "Native"

@@ -3,7 +3,6 @@ local black = '#121212'
 
 local lexers = vis.lexers
 
-
 lexers.STYLE_DEFAULT = 'back:'..black..',fore:#b4b4b4'
 lexers.STYLE_NOTHING = 'back:'..black
 lexers.STYLE_COMMENT = 'fore:#737373'
@@ -20,6 +19,7 @@ lexers.STYLE_TAG = 'fore:#949494'
 lexers.STYLE_TYPE = 'fore:#c4693d'
 lexers.STYLE_WHITESPACE = 'fore:#535353'
 lexers.STYLE_IDENTIFIER = 'fore:#e5e5e5'
+lexers.STYLE_CODE = 'fore:#df6464'
 
 lexers.STYLE_LINENUMBER = 'back:'..black..',fore:#323232'
 lexers.STYLE_LINENUMBER_CURSOR =  'back:#212121,fore:#737373'
