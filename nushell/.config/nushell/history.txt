@@ -6763,3 +6763,6 @@ yz
 hx
 cd ~/.dotfiles/
 git status
+git pull origin main --rebase
+git status
+git rebase --continue
