@@ -1,6 +1,10 @@
 -- load standard vis module, providing parts of the Lua API, sets _G.vis
 require("vis")
 
+require("plugins/vis-lspc")
+require("plugins/vis-sneak")
+require("plugins/vis-commentary")
+
 local plug = (function()
 	if not pcall(require, "plugins/vis-plug") then
 		os.execute(
@@ -13,9 +17,6 @@ local plug = (function()
 end)()
 
 local plugins = {
-	-- { "erf/vis-sneak" },
-	{ "https://gitlab.com/muhq/vis-lspc.git" },
-	{ "Nomarian/vis-commentary" },
 	{ "milhnl/vis-editorconfig-options" },
 	{ "jocap/vis-filetype-settings" },
 	{ "milhnl/vis-format" },
@@ -36,6 +37,7 @@ vis.events.subscribe(vis.events.WIN_OPEN, function(win)
 	-- Your per window configuration options e.g.
 	vis:command('set tabwidth 4')
 	vis:command('set rel')
+	vis:command('set ic')
 end)
 
 -- Fuzzy search filenames to open files
